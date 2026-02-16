@@ -1,6 +1,4 @@
-# 📊 Sales Demand Forecasting using Machine Learning
-
-Predicting future sales demand using regression models and time-based feature engineering to support inventory optimization and business planning decisions.
+# Sales Demand Forecasting
 
 ## 1. Business Problem
 A retail establishment (Superstore) needs to accurately forecast daily sales to optimize inventory management. Inaccurate forecasting leads to either excessive stockouts (lost revenue) or overstocking (increased holding costs). This project aims to build a time-series forecasting model to predict sales for the next 30 days, enabling better procurement and promotion strategies.
@@ -41,28 +39,11 @@ The analysis is based on a Superstore dataset containing transaction records acr
     - **RMSE (Root Mean Squared Error):** 631.93
 - **Best Model Selection:** ARIMA was chosen for its mathematical robustness in capturing lags and trends in historical sales data.
 
-## 📊 Model Visualizations
-
-### Sales Trend Over Time
-![Sales Trend](images/sales_trend.png)
-
-### Forecast vs Actual
-![Forecast](images/forecast_vs_actual.png)
-
-### Feature Importance
-![Feature Importance](images/feature_importance.png)
-
-### Residual Analysis
-![Residual Plot](images/residual_plot.png)
-
-## 5. ## 📈 Key Results
-
-- Best Model: XGBoost Regressor  
-- RMSE: (add your actual value here)  
-- MAE: (add your actual value here)  
-- Model successfully captured seasonal demand patterns  
-- Forecast aligned closely with actual sales trends
-
+## 5. Results
+The final model identified a clear **increasing sales trend** for the upcoming 30-day window.
+- **Average Forecasted Daily Sales:** $713.89
+- **Trend Detection:** Polynomial fit confirmed a positive slope in the forecast.
+- **Visualizations:** The project includes comparisons between historical values and forecasted results to verify alignment.
 
 ## 6. Business Impact
 🔥 **Strategic Advantages:**
@@ -79,13 +60,6 @@ The analysis is based on a Superstore dataset containing transaction records acr
     - `Scikit-learn`: `mean_absolute_error` and `mean_squared_error` calculation.
     - `Matplotlib`: High-quality plot generation.
 
-## 🚀 Future Improvements
-
-- Hyperparameter tuning using GridSearchCV  
-- Deployment as REST API using Flask  
-- Real-time demand prediction integration  
-- Automated model retraining pipeline  
-
 ---
 ## Project Structure
 - `EDA.ipynb`: Full analysis, decomposition, and modeling pipeline.
@@ -101,4 +75,3 @@ The analysis is based on a Superstore dataset containing transaction records acr
 ## Contact Information
 **Author:** Prasang Jain  
 **Email:** [mejainprasang43@gmail.com](mailto:mejainprasang43@gmail.com)
-
