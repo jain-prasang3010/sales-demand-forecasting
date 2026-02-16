@@ -1,0 +1,2501 @@
+Order ID,Order Date,Category,Sub-Category,Region,Ship Mode,Sales
+1,2022-12-16,Office Supplies,Binders,West,Second Class,359.05
+2,2022-07-24,Technology,Copiers,Central,Second Class,224.17
+3,2023-11-12,Office Supplies,Binders,West,First Class,207.34
+4,2022-12-25,Office Supplies,Paper,East,Second Class,207.35
+5,2022-07-17,Furniture,Chairs,West,Standard Class,697.46
+6,2023-02-06,Technology,Accessories,West,Second Class,430.01
+7,2023-07-25,Technology,Phones,Central,Same Day,169.66
+8,2022-08-27,Office Supplies,Storage,West,Same Day,370.47
+9,2023-01-04,Technology,Copiers,South,First Class,299.84
+10,2021-07-02,Office Supplies,Binders,West,Same Day,32.39
+11,2022-04-18,Technology,Phones,East,First Class,100.69
+12,2022-12-22,Furniture,Tables,Central,Second Class,315.92
+13,2023-10-12,Technology,Accessories,Central,First Class,654.78
+14,2023-06-25,Furniture,Chairs,South,Same Day,208.78
+15,2022-10-04,Office Supplies,Binders,East,Standard Class,158.7
+16,2022-12-13,Technology,Accessories,South,Same Day,272.1
+17,2022-06-20,Office Supplies,Storage,Central,Same Day,150.79
+18,2021-04-23,Furniture,Chairs,Central,Second Class,197.66
+19,2022-06-14,Office Supplies,Paper,Central,First Class,247.4
+20,2023-12-30,Office Supplies,Binders,Central,Standard Class,96.02
+21,2021-01-24,Office Supplies,Storage,West,Same Day,445.51
+22,2023-01-27,Technology,Copiers,Central,Standard Class,80.28
+23,2021-12-03,Office Supplies,Paper,West,Second Class,70.92
+24,2023-10-23,Office Supplies,Storage,Central,First Class,290.09
+25,2023-06-24,Furniture,Bookcases,East,Second Class,422.0
+26,2022-05-27,Furniture,Bookcases,West,Standard Class,284.68
+27,2022-09-26,Furniture,Tables,East,Same Day,228.27
+28,2022-11-11,Office Supplies,Storage,West,Standard Class,196.11
+29,2023-01-16,Furniture,Bookcases,East,Second Class,170.99
+30,2021-04-05,Technology,Copiers,Central,Standard Class,515.67
+31,2022-03-16,Office Supplies,Paper,West,Standard Class,318.16
+32,2021-12-12,Office Supplies,Storage,South,Same Day,182.6
+33,2022-09-18,Office Supplies,Binders,Central,Standard Class,140.49
+34,2023-09-10,Technology,Copiers,West,First Class,388.14
+35,2021-08-20,Office Supplies,Paper,West,Second Class,507.52
+36,2022-12-24,Furniture,Tables,South,Same Day,477.18
+37,2021-04-04,Office Supplies,Paper,Central,Same Day,120.16
+38,2023-12-04,Office Supplies,Binders,West,Standard Class,194.77
+39,2022-05-31,Furniture,Bookcases,South,Same Day,168.22
+40,2023-09-19,Office Supplies,Storage,Central,First Class,215.74
+41,2023-08-27,Office Supplies,Binders,South,Standard Class,442.66
+42,2022-10-07,Office Supplies,Paper,South,Same Day,615.34
+43,2021-03-24,Office Supplies,Storage,Central,First Class,326.77
+44,2023-10-11,Furniture,Chairs,East,Second Class,144.73
+45,2023-01-06,Furniture,Bookcases,West,First Class,243.13
+46,2023-03-09,Office Supplies,Paper,Central,Second Class,691.88
+47,2021-03-10,Furniture,Chairs,South,Second Class,267.24
+48,2021-12-12,Office Supplies,Paper,East,First Class,196.45
+49,2021-10-29,Technology,Accessories,West,Standard Class,209.83
+50,2021-04-04,Office Supplies,Binders,West,First Class,325.73
+51,2022-10-20,Office Supplies,Paper,East,Same Day,123.84
+52,2022-11-19,Technology,Phones,South,Same Day,164.88
+53,2023-02-13,Office Supplies,Binders,South,Second Class,472.47
+54,2021-12-23,Office Supplies,Paper,East,Standard Class,319.22
+55,2023-06-02,Office Supplies,Paper,West,First Class,269.27
+56,2022-10-21,Technology,Copiers,Central,Second Class,488.4
+57,2021-01-03,Office Supplies,Binders,South,Same Day,137.2
+58,2022-10-13,Office Supplies,Binders,Central,First Class,191.77
+59,2021-07-22,Office Supplies,Paper,West,Standard Class,311.84
+60,2022-04-05,Furniture,Tables,East,Same Day,304.04
+61,2023-05-29,Furniture,Tables,Central,First Class,63.88
+62,2023-09-24,Office Supplies,Paper,West,Standard Class,177.07
+63,2023-12-18,Furniture,Chairs,East,Same Day,220.05
+64,2023-08-28,Office Supplies,Binders,Central,First Class,336.69
+65,2021-05-13,Office Supplies,Paper,Central,Second Class,303.26
+66,2021-12-16,Technology,Phones,South,First Class,235.86
+67,2022-02-25,Furniture,Bookcases,East,Same Day,32.12
+68,2021-10-11,Furniture,Chairs,West,Standard Class,244.9
+69,2022-01-26,Office Supplies,Binders,West,First Class,261.85
+70,2021-07-28,Technology,Accessories,West,Second Class,1094.7
+71,2023-11-21,Furniture,Chairs,Central,Standard Class,214.57
+72,2021-05-09,Office Supplies,Paper,Central,Second Class,313.06
+73,2021-10-28,Technology,Copiers,Central,Standard Class,543.03
+74,2022-01-25,Office Supplies,Binders,West,Second Class,425.71
+75,2021-01-06,Technology,Phones,Central,First Class,631.92
+76,2022-01-23,Technology,Phones,East,Standard Class,64.94
+77,2023-11-23,Technology,Accessories,Central,Same Day,103.06
+78,2021-05-13,Office Supplies,Paper,East,Second Class,155.59
+79,2023-07-10,Office Supplies,Storage,Central,First Class,53.9
+80,2023-01-12,Technology,Phones,South,First Class,263.51
+81,2023-01-11,Furniture,Tables,South,Standard Class,110.88
+82,2023-09-24,Furniture,Tables,Central,Second Class,686.28
+83,2021-02-15,Furniture,Chairs,West,First Class,126.93
+84,2022-10-15,Technology,Copiers,West,Standard Class,192.68
+85,2021-08-06,Office Supplies,Binders,Central,First Class,442.94
+86,2023-06-05,Furniture,Chairs,West,Same Day,79.37
+87,2021-07-01,Furniture,Tables,South,First Class,50.04
+88,2023-02-13,Technology,Phones,South,Standard Class,287.49
+89,2021-04-16,Furniture,Chairs,Central,First Class,303.78
+90,2022-05-06,Technology,Copiers,South,First Class,434.02
+91,2023-08-14,Furniture,Chairs,East,Same Day,365.31
+92,2022-08-30,Office Supplies,Paper,Central,First Class,312.03
+93,2022-08-22,Technology,Copiers,Central,Second Class,140.08
+94,2023-06-19,Office Supplies,Binders,South,First Class,297.73
+95,2023-01-16,Office Supplies,Paper,West,First Class,311.16
+96,2021-01-11,Office Supplies,Binders,South,First Class,135.61
+97,2021-09-16,Office Supplies,Binders,South,Standard Class,813.31
+98,2023-02-24,Office Supplies,Paper,South,Second Class,353.44
+99,2021-01-26,Office Supplies,Binders,West,Same Day,104.77
+100,2021-10-16,Furniture,Chairs,East,Same Day,435.49
+101,2022-05-10,Furniture,Bookcases,South,Same Day,486.81
+102,2023-06-01,Technology,Accessories,East,Second Class,338.76
+103,2021-07-04,Office Supplies,Binders,Central,First Class,205.43
+104,2021-01-22,Technology,Accessories,East,Same Day,130.6
+105,2021-09-02,Office Supplies,Binders,West,First Class,235.36
+106,2021-10-15,Furniture,Bookcases,East,Standard Class,322.05
+107,2021-12-11,Office Supplies,Storage,South,Standard Class,252.53
+108,2022-10-14,Furniture,Chairs,West,Same Day,650.33
+109,2021-07-01,Furniture,Chairs,West,First Class,391.79
+110,2023-07-10,Furniture,Chairs,East,Second Class,118.04
+111,2022-04-30,Office Supplies,Binders,East,Standard Class,94.68
+112,2023-03-06,Furniture,Bookcases,Central,Standard Class,355.55
+113,2023-04-30,Furniture,Tables,South,First Class,209.18
+114,2023-11-01,Technology,Copiers,Central,Standard Class,415.32
+115,2021-05-18,Furniture,Tables,Central,Same Day,353.3
+116,2021-11-17,Technology,Accessories,West,Second Class,236.16
+117,2021-12-20,Furniture,Bookcases,South,First Class,119.26
+118,2021-06-13,Furniture,Chairs,East,Same Day,56.43
+119,2023-12-27,Technology,Copiers,West,Standard Class,293.79
+120,2021-09-12,Office Supplies,Binders,South,First Class,78.04
+121,2023-11-11,Technology,Phones,East,First Class,114.93
+122,2023-06-29,Technology,Copiers,East,Second Class,280.97
+123,2023-09-21,Technology,Phones,Central,Standard Class,261.44
+124,2022-02-08,Furniture,Tables,Central,Second Class,87.56
+125,2023-02-03,Technology,Phones,West,Same Day,523.85
+126,2022-03-13,Technology,Accessories,South,Standard Class,514.63
+127,2021-12-26,Furniture,Chairs,South,Second Class,363.59
+128,2022-08-08,Furniture,Tables,West,Same Day,363.28
+129,2021-01-11,Technology,Phones,South,First Class,363.59
+130,2023-03-12,Furniture,Chairs,West,Same Day,483.98
+131,2021-01-22,Furniture,Bookcases,East,First Class,398.55
+132,2022-05-21,Technology,Accessories,East,Same Day,128.22
+133,2023-12-19,Furniture,Bookcases,East,First Class,206.89
+134,2021-11-16,Furniture,Tables,East,Second Class,1019.48
+135,2021-09-11,Office Supplies,Paper,East,Standard Class,34.72
+136,2022-01-08,Technology,Phones,South,Same Day,169.29
+137,2022-02-21,Furniture,Tables,East,Same Day,525.72
+138,2022-03-07,Furniture,Tables,East,Same Day,135.49
+139,2023-02-14,Office Supplies,Paper,West,First Class,406.05
+140,2023-08-15,Furniture,Chairs,West,Same Day,258.93
+141,2022-09-06,Technology,Accessories,West,Second Class,143.86
+142,2022-05-16,Office Supplies,Binders,East,Standard Class,27.15
+143,2023-04-12,Technology,Copiers,South,First Class,287.87
+144,2023-08-09,Office Supplies,Storage,South,Standard Class,125.79
+145,2023-01-23,Technology,Phones,East,Second Class,228.43
+146,2023-05-18,Office Supplies,Storage,East,First Class,361.1
+147,2021-05-21,Furniture,Chairs,East,First Class,457.92
+148,2021-04-05,Office Supplies,Storage,South,Second Class,168.84
+149,2023-05-05,Office Supplies,Binders,East,First Class,143.63
+150,2022-12-11,Furniture,Tables,East,First Class,76.7
+151,2023-06-17,Office Supplies,Binders,East,Second Class,473.19
+152,2023-10-06,Technology,Phones,Central,Standard Class,927.26
+153,2023-12-03,Office Supplies,Storage,Central,Second Class,507.97
+154,2022-09-11,Furniture,Bookcases,South,First Class,584.34
+155,2023-07-20,Technology,Accessories,Central,Standard Class,136.48
+156,2023-12-28,Technology,Accessories,West,Same Day,346.17
+157,2023-09-10,Technology,Accessories,West,First Class,432.01
+158,2023-09-02,Furniture,Chairs,South,Same Day,99.47
+159,2021-12-17,Furniture,Bookcases,South,Same Day,718.07
+160,2023-01-05,Furniture,Bookcases,Central,Same Day,62.73
+161,2023-10-15,Furniture,Bookcases,East,Second Class,645.85
+162,2022-08-07,Office Supplies,Binders,South,First Class,62.29
+163,2021-01-28,Technology,Accessories,Central,Second Class,104.03
+164,2023-04-13,Office Supplies,Paper,West,First Class,350.59
+165,2022-11-10,Technology,Copiers,West,First Class,263.76
+166,2021-04-13,Furniture,Tables,West,First Class,182.56
+167,2022-04-13,Office Supplies,Binders,West,Standard Class,700.07
+168,2023-10-13,Furniture,Tables,West,First Class,78.75
+169,2023-05-13,Furniture,Tables,East,Same Day,221.74
+170,2022-11-30,Technology,Accessories,South,Standard Class,382.11
+171,2022-04-24,Furniture,Tables,Central,First Class,308.46
+172,2022-11-24,Office Supplies,Binders,South,Same Day,147.76
+173,2021-06-14,Furniture,Chairs,West,Standard Class,152.36
+174,2021-08-18,Technology,Accessories,West,First Class,453.25
+175,2021-05-05,Technology,Copiers,South,Standard Class,467.8
+176,2021-06-29,Office Supplies,Storage,East,First Class,314.35
+177,2022-11-11,Furniture,Bookcases,South,Second Class,121.38
+178,2023-10-06,Furniture,Bookcases,South,Standard Class,156.46
+179,2022-12-18,Technology,Copiers,Central,Second Class,245.97
+180,2021-07-16,Technology,Phones,Central,Standard Class,273.42
+181,2023-06-09,Furniture,Bookcases,South,Standard Class,371.62
+182,2022-05-14,Technology,Phones,East,Same Day,212.85
+183,2023-07-13,Office Supplies,Paper,West,First Class,446.33
+184,2022-02-19,Office Supplies,Paper,West,Standard Class,442.94
+185,2022-04-19,Furniture,Tables,Central,Second Class,597.59
+186,2023-09-16,Technology,Phones,East,Same Day,254.09
+187,2023-07-19,Furniture,Tables,West,Standard Class,318.18
+188,2021-05-14,Technology,Copiers,South,Standard Class,225.64
+189,2023-01-10,Office Supplies,Binders,South,Same Day,122.67
+190,2022-09-05,Furniture,Bookcases,South,First Class,913.51
+191,2023-08-18,Furniture,Bookcases,Central,Same Day,548.01
+192,2021-01-06,Office Supplies,Storage,Central,Same Day,436.78
+193,2022-11-27,Furniture,Bookcases,West,First Class,247.64
+194,2022-07-21,Furniture,Tables,East,Second Class,113.39
+195,2021-12-18,Office Supplies,Storage,East,Second Class,490.36
+196,2021-11-17,Furniture,Tables,Central,Standard Class,222.59
+197,2021-02-11,Furniture,Bookcases,West,First Class,338.79
+198,2022-12-02,Technology,Copiers,East,First Class,155.95
+199,2021-02-20,Technology,Copiers,West,First Class,300.5
+200,2022-11-09,Furniture,Bookcases,Central,Standard Class,164.12
+201,2023-12-10,Furniture,Bookcases,West,Same Day,169.43
+202,2023-06-03,Furniture,Chairs,South,Same Day,297.68
+203,2023-12-25,Furniture,Tables,East,First Class,61.36
+204,2021-02-28,Furniture,Tables,Central,Second Class,64.5
+205,2022-12-19,Office Supplies,Storage,South,Standard Class,135.09
+206,2023-08-16,Technology,Phones,East,First Class,210.9
+207,2022-09-29,Technology,Phones,Central,Standard Class,455.58
+208,2023-10-29,Office Supplies,Storage,West,First Class,220.29
+209,2022-06-18,Furniture,Bookcases,Central,First Class,246.43
+210,2022-03-25,Furniture,Chairs,West,Standard Class,198.16
+211,2022-09-11,Office Supplies,Paper,Central,First Class,317.85
+212,2022-07-06,Furniture,Bookcases,South,First Class,121.59
+213,2022-07-14,Office Supplies,Storage,South,Standard Class,229.52
+214,2022-08-17,Office Supplies,Binders,West,First Class,336.14
+215,2022-08-18,Technology,Accessories,South,First Class,295.95
+216,2022-04-02,Furniture,Tables,East,Second Class,252.45
+217,2022-09-17,Furniture,Tables,West,First Class,254.78
+218,2021-12-25,Office Supplies,Binders,Central,Same Day,359.37
+219,2022-06-14,Furniture,Tables,East,Same Day,941.73
+220,2021-03-03,Technology,Copiers,West,Second Class,128.9
+221,2022-02-07,Furniture,Bookcases,East,Standard Class,959.0
+222,2022-04-12,Office Supplies,Paper,Central,Same Day,123.87
+223,2021-04-05,Technology,Accessories,West,Second Class,23.03
+224,2023-09-24,Furniture,Tables,South,First Class,161.38
+225,2023-03-05,Office Supplies,Paper,Central,First Class,322.19
+226,2023-03-06,Technology,Copiers,East,Same Day,817.74
+227,2023-11-04,Office Supplies,Storage,South,Standard Class,113.26
+228,2022-04-28,Office Supplies,Storage,Central,First Class,357.87
+229,2022-02-01,Technology,Copiers,East,Second Class,71.59
+230,2023-04-07,Technology,Phones,South,Standard Class,798.81
+231,2023-03-05,Technology,Copiers,West,Same Day,555.01
+232,2023-12-23,Office Supplies,Storage,Central,Same Day,169.71
+233,2022-08-09,Technology,Accessories,East,Standard Class,614.5
+234,2021-12-04,Office Supplies,Paper,Central,Standard Class,228.47
+235,2023-12-12,Furniture,Tables,West,First Class,574.47
+236,2021-10-02,Technology,Accessories,East,Second Class,251.02
+237,2022-09-10,Furniture,Chairs,West,First Class,259.21
+238,2022-12-18,Office Supplies,Storage,Central,Second Class,172.58
+239,2022-01-31,Technology,Phones,East,Standard Class,391.05
+240,2022-03-20,Furniture,Chairs,West,First Class,274.03
+241,2023-11-20,Furniture,Bookcases,West,Second Class,363.44
+242,2023-06-06,Furniture,Chairs,East,First Class,55.06
+243,2022-01-26,Technology,Copiers,South,Same Day,588.02
+244,2021-03-18,Technology,Phones,Central,Standard Class,686.74
+245,2021-02-24,Furniture,Tables,West,Same Day,273.08
+246,2021-03-28,Furniture,Chairs,Central,Same Day,899.06
+247,2021-06-23,Office Supplies,Paper,South,Standard Class,767.26
+248,2023-12-28,Furniture,Chairs,West,First Class,396.96
+249,2022-05-23,Technology,Phones,South,Standard Class,619.72
+250,2023-08-13,Furniture,Bookcases,West,Same Day,516.08
+251,2021-10-18,Office Supplies,Binders,South,First Class,40.67
+252,2023-06-09,Furniture,Tables,West,Same Day,201.37
+253,2023-08-08,Technology,Copiers,South,Same Day,416.28
+254,2021-09-28,Office Supplies,Binders,East,Second Class,716.59
+255,2023-06-13,Office Supplies,Paper,Central,First Class,66.67
+256,2022-04-15,Office Supplies,Storage,West,Standard Class,43.95
+257,2022-09-24,Furniture,Tables,South,First Class,239.4
+258,2022-08-21,Furniture,Tables,Central,Standard Class,25.33
+259,2023-06-02,Furniture,Chairs,South,Same Day,233.14
+260,2022-04-18,Technology,Phones,West,Second Class,327.92
+261,2023-05-02,Furniture,Chairs,West,Same Day,108.59
+262,2021-02-16,Technology,Copiers,South,Same Day,238.06
+263,2021-12-09,Furniture,Tables,East,Second Class,484.33
+264,2023-02-26,Office Supplies,Paper,East,Standard Class,160.73
+265,2022-06-21,Technology,Copiers,Central,Standard Class,125.75
+266,2023-01-29,Technology,Phones,West,Second Class,229.84
+267,2021-07-04,Furniture,Chairs,Central,Standard Class,98.34
+268,2022-01-26,Technology,Accessories,East,Second Class,856.11
+269,2022-07-05,Technology,Phones,West,First Class,256.89
+270,2022-05-06,Office Supplies,Storage,South,First Class,137.51
+271,2021-04-14,Technology,Copiers,Central,First Class,293.77
+272,2023-06-25,Technology,Phones,East,Same Day,228.87
+273,2022-07-20,Technology,Phones,South,Same Day,209.6
+274,2023-09-27,Technology,Accessories,South,First Class,160.7
+275,2021-10-09,Office Supplies,Paper,West,Same Day,154.25
+276,2022-05-15,Office Supplies,Binders,West,Second Class,56.41
+277,2023-07-21,Furniture,Bookcases,Central,Second Class,619.1
+278,2022-05-30,Furniture,Bookcases,Central,First Class,379.1
+279,2021-12-27,Furniture,Chairs,South,Second Class,315.25
+280,2022-12-11,Technology,Phones,South,Same Day,226.04
+281,2021-01-18,Furniture,Chairs,South,First Class,106.86
+282,2021-09-22,Office Supplies,Storage,South,Second Class,130.27
+283,2022-07-11,Technology,Copiers,South,First Class,63.34
+284,2023-09-15,Office Supplies,Storage,Central,Same Day,144.53
+285,2023-05-09,Technology,Copiers,East,First Class,93.6
+286,2023-06-12,Technology,Accessories,East,Standard Class,739.7
+287,2023-09-15,Furniture,Tables,East,Second Class,462.54
+288,2022-05-08,Furniture,Tables,Central,Standard Class,265.28
+289,2021-01-25,Technology,Copiers,South,First Class,117.55
+290,2021-10-16,Office Supplies,Binders,Central,Standard Class,98.13
+291,2023-06-03,Office Supplies,Paper,Central,First Class,214.92
+292,2021-10-20,Technology,Accessories,Central,Second Class,475.66
+293,2021-06-13,Technology,Accessories,West,Standard Class,65.2
+294,2023-06-13,Office Supplies,Storage,South,Same Day,375.63
+295,2023-08-10,Furniture,Chairs,South,Standard Class,143.99
+296,2022-06-10,Office Supplies,Binders,West,Same Day,167.04
+297,2022-08-27,Technology,Copiers,East,Standard Class,259.51
+298,2022-06-02,Office Supplies,Binders,South,Standard Class,121.14
+299,2023-10-21,Furniture,Chairs,South,Standard Class,206.52
+300,2021-07-19,Office Supplies,Binders,Central,Same Day,112.22
+301,2022-08-12,Technology,Accessories,South,Second Class,154.12
+302,2021-10-15,Furniture,Tables,East,First Class,426.67
+303,2023-04-23,Technology,Phones,East,Same Day,269.73
+304,2023-07-19,Office Supplies,Paper,South,Second Class,425.56
+305,2022-07-14,Furniture,Bookcases,Central,Standard Class,142.38
+306,2021-03-18,Office Supplies,Binders,Central,Second Class,377.57
+307,2021-11-13,Technology,Phones,Central,Standard Class,48.72
+308,2022-08-01,Office Supplies,Binders,East,Same Day,259.43
+309,2022-11-23,Technology,Copiers,Central,Standard Class,395.17
+310,2023-08-13,Furniture,Bookcases,West,Same Day,46.54
+311,2023-05-18,Technology,Copiers,West,Second Class,143.83
+312,2021-12-04,Technology,Accessories,West,Second Class,259.29
+313,2023-10-24,Technology,Accessories,West,Second Class,499.88
+314,2021-04-10,Technology,Accessories,West,Standard Class,154.1
+315,2021-04-05,Furniture,Tables,South,Standard Class,367.27
+316,2021-10-03,Technology,Accessories,East,First Class,645.96
+317,2022-09-03,Furniture,Bookcases,East,Second Class,379.23
+318,2021-05-25,Technology,Phones,Central,Standard Class,212.71
+319,2022-04-20,Office Supplies,Paper,West,Standard Class,328.98
+320,2021-05-09,Furniture,Chairs,West,Second Class,150.33
+321,2022-10-21,Technology,Copiers,South,Standard Class,267.15
+322,2022-08-15,Office Supplies,Binders,West,Second Class,221.05
+323,2021-03-28,Furniture,Tables,East,First Class,321.24
+324,2023-11-05,Office Supplies,Binders,Central,Same Day,178.42
+325,2023-09-17,Office Supplies,Binders,East,Standard Class,334.43
+326,2021-01-12,Furniture,Tables,West,Standard Class,177.02
+327,2021-06-16,Technology,Copiers,West,Second Class,459.48
+328,2022-05-02,Office Supplies,Paper,South,Standard Class,192.03
+329,2021-04-16,Furniture,Chairs,East,Standard Class,26.58
+330,2022-06-01,Technology,Phones,East,Second Class,101.19
+331,2022-11-14,Furniture,Chairs,South,Second Class,253.58
+332,2023-12-10,Technology,Accessories,East,First Class,735.44
+333,2021-09-09,Office Supplies,Binders,South,Same Day,447.46
+334,2022-02-17,Furniture,Chairs,East,Second Class,19.75
+335,2021-12-23,Furniture,Chairs,South,Standard Class,59.07
+336,2021-05-10,Furniture,Bookcases,South,Second Class,543.33
+337,2023-04-20,Furniture,Bookcases,East,Second Class,393.65
+338,2022-10-30,Technology,Copiers,East,Second Class,997.9
+339,2022-02-01,Office Supplies,Binders,South,Standard Class,171.18
+340,2022-02-23,Technology,Phones,South,First Class,118.9
+341,2021-11-16,Technology,Accessories,East,First Class,264.12
+342,2023-02-15,Technology,Accessories,South,First Class,168.44
+343,2023-06-23,Furniture,Tables,West,Standard Class,509.55
+344,2023-03-25,Technology,Copiers,Central,First Class,163.67
+345,2021-03-09,Office Supplies,Binders,Central,Standard Class,201.3
+346,2021-02-10,Technology,Phones,South,First Class,104.33
+347,2023-10-18,Office Supplies,Binders,Central,First Class,427.11
+348,2023-06-11,Office Supplies,Storage,West,Second Class,110.57
+349,2023-06-12,Technology,Phones,East,First Class,338.91
+350,2022-07-01,Furniture,Tables,East,Same Day,818.01
+351,2022-07-19,Office Supplies,Binders,Central,Second Class,39.53
+352,2022-01-12,Furniture,Bookcases,Central,First Class,666.02
+353,2022-10-17,Furniture,Tables,East,Second Class,308.23
+354,2021-06-13,Furniture,Chairs,West,Same Day,89.25
+355,2023-04-04,Furniture,Bookcases,Central,Standard Class,271.79
+356,2021-07-22,Office Supplies,Binders,South,Same Day,418.53
+357,2023-04-09,Technology,Phones,West,Same Day,126.04
+358,2021-04-17,Furniture,Tables,West,First Class,352.86
+359,2021-02-22,Office Supplies,Storage,West,Second Class,702.83
+360,2023-06-10,Technology,Phones,West,Standard Class,163.5
+361,2021-05-05,Technology,Copiers,West,Second Class,103.16
+362,2021-07-01,Office Supplies,Storage,West,Standard Class,226.42
+363,2021-03-19,Technology,Accessories,South,First Class,260.95
+364,2023-12-26,Office Supplies,Binders,South,Standard Class,527.39
+365,2023-04-03,Office Supplies,Binders,Central,Second Class,220.63
+366,2022-10-09,Office Supplies,Storage,Central,Same Day,176.11
+367,2022-08-17,Technology,Phones,Central,Standard Class,100.76
+368,2023-03-22,Furniture,Tables,East,Second Class,46.96
+369,2021-01-26,Technology,Phones,West,Standard Class,74.16
+370,2022-01-02,Technology,Copiers,West,Second Class,73.72
+371,2021-01-11,Office Supplies,Storage,East,First Class,203.02
+372,2022-08-15,Furniture,Chairs,East,Second Class,57.27
+373,2022-01-12,Office Supplies,Paper,East,First Class,239.63
+374,2023-02-08,Technology,Accessories,South,Second Class,806.18
+375,2023-03-02,Furniture,Chairs,West,First Class,537.77
+376,2023-12-08,Office Supplies,Storage,Central,Same Day,201.46
+377,2022-02-10,Furniture,Bookcases,East,First Class,1152.77
+378,2021-11-03,Office Supplies,Binders,Central,Standard Class,261.64
+379,2023-05-22,Furniture,Tables,Central,First Class,290.35
+380,2023-10-12,Office Supplies,Binders,South,First Class,223.07
+381,2022-08-28,Office Supplies,Storage,East,Standard Class,243.71
+382,2022-04-24,Office Supplies,Binders,West,Second Class,158.84
+383,2023-02-05,Furniture,Chairs,South,Same Day,203.8
+384,2023-10-07,Furniture,Chairs,West,First Class,668.99
+385,2022-06-22,Technology,Copiers,Central,Standard Class,577.27
+386,2021-05-13,Office Supplies,Paper,West,Second Class,25.08
+387,2023-01-29,Office Supplies,Binders,West,Standard Class,64.49
+388,2022-02-14,Furniture,Bookcases,East,Same Day,127.6
+389,2023-09-30,Office Supplies,Paper,East,First Class,478.49
+390,2023-10-26,Technology,Accessories,East,Second Class,585.93
+391,2024-01-01,Furniture,Bookcases,South,First Class,417.41
+392,2021-03-15,Technology,Phones,Central,First Class,88.9
+393,2023-05-03,Office Supplies,Paper,East,First Class,161.56
+394,2022-12-13,Furniture,Chairs,South,Standard Class,357.25
+395,2021-09-10,Technology,Accessories,South,Second Class,206.29
+396,2021-09-18,Technology,Accessories,West,Standard Class,184.21
+397,2023-08-31,Furniture,Bookcases,West,Standard Class,186.41
+398,2023-06-18,Technology,Accessories,West,Standard Class,548.41
+399,2021-02-18,Technology,Accessories,West,Same Day,383.34
+400,2023-05-24,Office Supplies,Binders,West,Same Day,194.72
+401,2021-11-03,Office Supplies,Storage,East,First Class,318.62
+402,2022-04-04,Office Supplies,Binders,East,First Class,77.56
+403,2022-07-08,Office Supplies,Binders,Central,Same Day,161.82
+404,2021-11-03,Technology,Phones,East,Standard Class,513.13
+405,2021-05-19,Office Supplies,Storage,Central,First Class,53.48
+406,2021-01-23,Technology,Phones,East,Same Day,386.67
+407,2021-08-17,Furniture,Tables,South,Standard Class,24.72
+408,2023-09-09,Office Supplies,Binders,Central,First Class,743.43
+409,2021-02-03,Office Supplies,Paper,South,Standard Class,158.63
+410,2021-03-09,Office Supplies,Binders,Central,Second Class,335.53
+411,2021-08-18,Furniture,Tables,Central,Standard Class,272.78
+412,2023-06-07,Office Supplies,Paper,Central,Same Day,280.25
+413,2021-09-26,Furniture,Bookcases,South,Same Day,314.47
+414,2021-11-20,Office Supplies,Binders,West,Same Day,43.54
+415,2022-03-16,Technology,Accessories,West,Second Class,284.57
+416,2021-08-22,Furniture,Tables,East,First Class,216.04
+417,2023-11-17,Furniture,Tables,Central,Same Day,159.37
+418,2022-01-29,Furniture,Chairs,Central,First Class,127.54
+419,2021-03-28,Technology,Phones,East,Standard Class,289.88
+420,2022-12-19,Office Supplies,Storage,West,Standard Class,104.37
+421,2023-06-18,Technology,Copiers,South,Standard Class,506.94
+422,2022-06-25,Office Supplies,Paper,South,First Class,353.14
+423,2021-10-31,Office Supplies,Storage,Central,Standard Class,302.93
+424,2021-11-22,Furniture,Tables,Central,First Class,492.67
+425,2023-07-25,Furniture,Tables,Central,First Class,36.11
+426,2023-02-20,Office Supplies,Paper,Central,First Class,75.06
+427,2023-02-01,Furniture,Chairs,West,Second Class,364.24
+428,2022-09-23,Technology,Accessories,East,Second Class,134.15
+429,2023-04-01,Technology,Accessories,West,Standard Class,149.29
+430,2023-05-04,Furniture,Tables,East,Same Day,64.56
+431,2022-07-22,Furniture,Chairs,South,First Class,104.64
+432,2021-07-11,Office Supplies,Binders,South,Same Day,514.58
+433,2021-04-14,Office Supplies,Binders,South,Standard Class,358.22
+434,2021-07-30,Technology,Accessories,East,Second Class,287.53
+435,2022-07-08,Furniture,Bookcases,East,First Class,154.28
+436,2023-09-07,Furniture,Tables,West,Standard Class,274.38
+437,2022-10-21,Office Supplies,Paper,West,Second Class,545.13
+438,2021-01-08,Furniture,Chairs,Central,Standard Class,137.06
+439,2022-01-01,Furniture,Bookcases,East,Standard Class,243.29
+440,2023-10-26,Office Supplies,Binders,West,First Class,773.6
+441,2023-10-13,Technology,Copiers,East,Second Class,413.63
+442,2021-05-22,Office Supplies,Storage,Central,First Class,156.13
+443,2023-05-18,Furniture,Chairs,Central,Second Class,390.78
+444,2021-12-16,Furniture,Chairs,West,Standard Class,52.55
+445,2021-12-16,Furniture,Chairs,West,Second Class,235.86
+446,2023-10-28,Technology,Phones,South,Standard Class,390.48
+447,2021-02-14,Office Supplies,Paper,Central,Same Day,331.09
+448,2023-01-21,Office Supplies,Binders,South,Same Day,387.86
+449,2023-07-23,Office Supplies,Binders,Central,Second Class,448.76
+450,2022-08-25,Furniture,Chairs,East,First Class,349.88
+451,2023-08-31,Technology,Phones,West,Second Class,342.77
+452,2023-12-12,Technology,Phones,South,First Class,292.41
+453,2023-12-07,Office Supplies,Binders,Central,Same Day,93.65
+454,2022-01-16,Technology,Phones,East,Second Class,514.43
+455,2023-09-06,Office Supplies,Binders,South,Same Day,242.42
+456,2023-10-26,Furniture,Chairs,East,Same Day,406.56
+457,2023-11-25,Furniture,Chairs,Central,First Class,479.27
+458,2021-04-15,Technology,Phones,South,Second Class,162.79
+459,2022-09-02,Technology,Phones,Central,Same Day,174.95
+460,2021-09-12,Technology,Accessories,West,Same Day,194.78
+461,2022-03-16,Office Supplies,Binders,South,Same Day,580.54
+462,2021-05-03,Technology,Accessories,West,Standard Class,113.7
+463,2021-01-16,Office Supplies,Paper,South,Second Class,647.93
+464,2022-06-10,Furniture,Bookcases,West,Same Day,290.03
+465,2022-12-18,Furniture,Chairs,Central,First Class,305.36
+466,2021-07-06,Furniture,Chairs,Central,Standard Class,464.88
+467,2023-02-08,Technology,Accessories,West,First Class,266.28
+468,2022-10-22,Technology,Accessories,East,Same Day,518.3
+469,2021-03-15,Technology,Copiers,East,First Class,162.61
+470,2022-12-17,Technology,Accessories,East,Standard Class,634.28
+471,2023-08-28,Office Supplies,Storage,South,First Class,173.27
+472,2022-12-06,Office Supplies,Storage,South,Second Class,650.27
+473,2021-11-11,Furniture,Bookcases,Central,Second Class,177.14
+474,2022-10-21,Technology,Accessories,South,Second Class,199.31
+475,2021-04-08,Furniture,Chairs,West,Same Day,101.61
+476,2023-01-22,Furniture,Chairs,West,First Class,128.84
+477,2022-10-03,Technology,Accessories,East,Same Day,243.34
+478,2021-03-12,Technology,Accessories,West,Same Day,298.15
+479,2023-07-07,Office Supplies,Paper,South,First Class,493.16
+480,2022-01-08,Technology,Accessories,West,Standard Class,210.81
+481,2021-12-22,Technology,Phones,East,Second Class,331.61
+482,2021-01-06,Technology,Accessories,West,Standard Class,283.64
+483,2023-03-08,Office Supplies,Binders,West,First Class,358.0
+484,2022-09-28,Technology,Accessories,South,Same Day,145.72
+485,2023-10-02,Technology,Accessories,East,Same Day,160.63
+486,2023-03-11,Technology,Phones,South,Second Class,145.77
+487,2022-07-18,Office Supplies,Paper,West,Second Class,558.17
+488,2022-08-31,Technology,Accessories,Central,First Class,638.31
+489,2021-10-25,Office Supplies,Storage,East,Same Day,154.96
+490,2023-01-13,Office Supplies,Storage,South,Same Day,157.59
+491,2023-01-26,Office Supplies,Binders,West,Same Day,393.69
+492,2021-01-07,Furniture,Bookcases,East,Standard Class,685.36
+493,2023-09-09,Technology,Phones,Central,Second Class,783.95
+494,2021-08-02,Furniture,Chairs,South,Same Day,149.12
+495,2023-05-25,Technology,Phones,West,Second Class,182.19
+496,2022-05-14,Office Supplies,Binders,West,Second Class,309.54
+497,2021-11-09,Furniture,Tables,West,Same Day,320.52
+498,2021-02-04,Technology,Copiers,East,First Class,217.28
+499,2023-08-09,Furniture,Tables,South,Same Day,125.09
+500,2021-12-09,Technology,Accessories,West,Same Day,243.64
+501,2021-05-27,Technology,Phones,East,Same Day,783.41
+502,2022-12-17,Technology,Copiers,West,First Class,162.56
+503,2023-03-05,Office Supplies,Binders,West,Second Class,295.89
+504,2022-01-01,Furniture,Bookcases,West,Same Day,1128.04
+505,2023-01-09,Office Supplies,Paper,South,First Class,160.64
+506,2021-04-11,Technology,Accessories,West,Second Class,406.66
+507,2022-08-20,Furniture,Tables,West,Standard Class,805.23
+508,2021-04-18,Furniture,Chairs,East,Standard Class,382.71
+509,2022-09-30,Office Supplies,Paper,South,Standard Class,532.03
+510,2022-08-27,Furniture,Chairs,Central,Standard Class,444.92
+511,2022-12-02,Technology,Phones,South,Standard Class,361.66
+512,2021-05-11,Furniture,Bookcases,Central,First Class,624.53
+513,2022-02-13,Furniture,Tables,West,Second Class,397.84
+514,2021-12-17,Office Supplies,Binders,West,First Class,219.01
+515,2023-09-05,Technology,Copiers,Central,Second Class,279.5
+516,2022-07-14,Office Supplies,Paper,South,Standard Class,328.4
+517,2021-04-01,Technology,Copiers,West,First Class,181.3
+518,2023-02-09,Office Supplies,Paper,East,Second Class,288.86
+519,2023-07-16,Technology,Phones,West,Same Day,259.1
+520,2022-11-13,Technology,Phones,West,Standard Class,396.99
+521,2023-06-12,Office Supplies,Binders,East,First Class,946.46
+522,2022-02-23,Furniture,Chairs,East,Same Day,301.47
+523,2022-09-13,Technology,Accessories,Central,Same Day,696.78
+524,2023-02-12,Furniture,Tables,South,Same Day,387.16
+525,2021-06-23,Furniture,Tables,South,Standard Class,287.91
+526,2022-03-14,Technology,Phones,West,First Class,173.13
+527,2021-11-22,Office Supplies,Binders,West,Second Class,289.5
+528,2021-02-18,Furniture,Tables,Central,Same Day,276.64
+529,2023-05-25,Technology,Accessories,South,Standard Class,137.45
+530,2023-06-21,Technology,Accessories,East,First Class,156.63
+531,2021-04-15,Technology,Phones,East,Second Class,330.39
+532,2021-02-26,Technology,Phones,Central,Second Class,692.22
+533,2021-12-03,Technology,Copiers,East,Same Day,237.48
+534,2023-03-18,Office Supplies,Paper,Central,Second Class,61.37
+535,2023-06-30,Office Supplies,Binders,South,Standard Class,99.8
+536,2021-06-30,Office Supplies,Paper,South,Second Class,413.79
+537,2021-09-05,Office Supplies,Binders,West,Standard Class,75.0
+538,2022-02-07,Office Supplies,Storage,South,First Class,459.87
+539,2023-07-11,Furniture,Bookcases,South,Standard Class,398.23
+540,2022-11-06,Office Supplies,Paper,East,Standard Class,231.28
+541,2022-12-16,Furniture,Chairs,East,First Class,138.52
+542,2022-02-08,Technology,Phones,East,Same Day,206.13
+543,2022-04-03,Office Supplies,Paper,East,Standard Class,324.56
+544,2022-09-12,Technology,Phones,West,Second Class,77.52
+545,2021-04-05,Technology,Copiers,Central,Same Day,646.76
+546,2022-02-22,Furniture,Chairs,East,First Class,322.41
+547,2021-09-03,Technology,Accessories,West,Second Class,349.29
+548,2023-03-15,Office Supplies,Storage,South,First Class,396.26
+549,2022-03-30,Office Supplies,Paper,East,First Class,605.83
+550,2023-03-14,Furniture,Tables,East,First Class,290.02
+551,2021-11-02,Office Supplies,Paper,West,Second Class,413.97
+552,2021-03-10,Technology,Accessories,Central,Same Day,140.56
+553,2023-04-14,Office Supplies,Binders,West,Same Day,786.06
+554,2022-10-26,Office Supplies,Binders,West,Same Day,275.64
+555,2023-05-16,Office Supplies,Binders,West,Standard Class,139.95
+556,2022-05-01,Technology,Copiers,South,First Class,173.17
+557,2022-06-06,Furniture,Chairs,West,First Class,33.58
+558,2023-05-18,Office Supplies,Storage,Central,Standard Class,172.24
+559,2022-10-01,Office Supplies,Storage,East,Second Class,13.09
+560,2021-11-21,Office Supplies,Paper,Central,First Class,435.13
+561,2023-05-11,Furniture,Chairs,South,Second Class,341.77
+562,2022-02-16,Office Supplies,Paper,Central,Same Day,105.61
+563,2021-07-22,Furniture,Chairs,Central,First Class,240.87
+564,2021-04-04,Technology,Copiers,West,Standard Class,249.3
+565,2023-11-17,Furniture,Bookcases,East,First Class,86.09
+566,2021-10-06,Technology,Accessories,East,First Class,209.61
+567,2023-06-16,Office Supplies,Storage,East,Same Day,255.24
+568,2023-09-04,Furniture,Chairs,South,First Class,205.12
+569,2022-11-25,Furniture,Tables,East,Second Class,139.82
+570,2023-06-22,Furniture,Chairs,South,Standard Class,101.87
+571,2022-04-02,Furniture,Chairs,South,Second Class,199.42
+572,2021-12-31,Office Supplies,Binders,East,First Class,154.9
+573,2023-01-20,Office Supplies,Binders,South,Standard Class,378.08
+574,2022-11-15,Technology,Copiers,East,Second Class,630.69
+575,2021-04-07,Office Supplies,Paper,West,Second Class,475.2
+576,2021-12-13,Office Supplies,Storage,East,Standard Class,261.73
+577,2022-07-04,Furniture,Tables,West,Second Class,144.48
+578,2023-09-26,Furniture,Tables,East,Same Day,466.51
+579,2023-04-10,Technology,Phones,Central,Second Class,394.28
+580,2023-10-20,Office Supplies,Binders,South,Second Class,601.73
+581,2023-06-09,Office Supplies,Binders,East,Standard Class,290.25
+582,2023-08-22,Furniture,Chairs,South,First Class,759.36
+583,2022-11-10,Office Supplies,Storage,East,First Class,290.32
+584,2023-03-21,Technology,Copiers,East,Second Class,143.88
+585,2021-04-15,Office Supplies,Paper,Central,First Class,167.52
+586,2023-07-14,Office Supplies,Storage,South,Standard Class,365.53
+587,2021-10-20,Technology,Copiers,Central,First Class,154.55
+588,2023-12-18,Furniture,Tables,East,Same Day,755.94
+589,2022-04-03,Technology,Copiers,South,Standard Class,344.37
+590,2023-07-14,Furniture,Tables,East,Same Day,257.43
+591,2021-10-01,Office Supplies,Storage,South,Same Day,273.97
+592,2023-11-18,Office Supplies,Storage,West,Same Day,203.4
+593,2021-10-23,Office Supplies,Storage,Central,Standard Class,46.1
+594,2023-01-03,Furniture,Bookcases,Central,Second Class,167.62
+595,2022-03-17,Technology,Phones,Central,Second Class,695.45
+596,2023-04-17,Office Supplies,Paper,West,Same Day,296.03
+597,2022-09-20,Technology,Copiers,South,First Class,512.53
+598,2021-07-15,Furniture,Bookcases,South,First Class,522.46
+599,2022-03-07,Furniture,Tables,East,Same Day,242.62
+600,2021-10-09,Office Supplies,Storage,East,Same Day,398.79
+601,2022-08-01,Furniture,Chairs,West,Standard Class,52.13
+602,2022-02-04,Office Supplies,Binders,South,Standard Class,658.79
+603,2022-04-24,Furniture,Bookcases,West,Same Day,623.8
+604,2022-08-21,Office Supplies,Paper,South,Same Day,358.39
+605,2022-02-25,Furniture,Bookcases,Central,Standard Class,303.95
+606,2023-01-10,Technology,Phones,East,Same Day,245.08
+607,2021-10-17,Technology,Phones,Central,First Class,552.8
+608,2021-07-28,Furniture,Tables,Central,Second Class,431.19
+609,2022-06-24,Technology,Phones,East,Same Day,186.18
+610,2022-08-23,Office Supplies,Paper,Central,Same Day,89.82
+611,2021-08-28,Office Supplies,Paper,Central,Standard Class,73.76
+612,2023-01-03,Technology,Copiers,East,Standard Class,548.9
+613,2023-11-30,Office Supplies,Storage,West,Second Class,241.02
+614,2021-04-09,Furniture,Tables,South,Same Day,354.22
+615,2021-03-10,Office Supplies,Paper,South,Same Day,265.17
+616,2023-06-13,Office Supplies,Binders,Central,First Class,74.76
+617,2022-08-08,Office Supplies,Storage,West,Second Class,53.49
+618,2022-05-17,Furniture,Bookcases,Central,Standard Class,175.92
+619,2022-09-29,Office Supplies,Storage,West,Same Day,188.38
+620,2021-07-01,Office Supplies,Storage,East,Same Day,188.28
+621,2022-07-09,Technology,Phones,South,First Class,192.74
+622,2021-02-02,Technology,Accessories,East,Second Class,906.35
+623,2021-05-20,Office Supplies,Paper,South,First Class,507.29
+624,2022-10-03,Technology,Phones,West,Standard Class,299.15
+625,2021-01-04,Furniture,Tables,South,Same Day,236.39
+626,2023-02-10,Furniture,Chairs,South,Second Class,242.86
+627,2021-11-27,Furniture,Tables,South,First Class,420.41
+628,2021-10-29,Furniture,Bookcases,West,Second Class,234.69
+629,2023-12-04,Office Supplies,Storage,East,First Class,472.74
+630,2021-05-27,Technology,Phones,East,First Class,323.28
+631,2023-11-18,Office Supplies,Storage,West,Same Day,911.67
+632,2021-07-29,Office Supplies,Storage,Central,First Class,223.93
+633,2022-01-01,Office Supplies,Binders,West,Same Day,531.86
+634,2023-01-16,Furniture,Chairs,East,First Class,97.85
+635,2022-05-13,Technology,Copiers,South,Second Class,147.62
+636,2021-03-13,Office Supplies,Binders,Central,Standard Class,834.0
+637,2022-06-04,Office Supplies,Storage,South,Second Class,459.17
+638,2023-06-12,Office Supplies,Paper,West,First Class,358.8
+639,2021-12-02,Furniture,Chairs,South,First Class,1063.98
+640,2022-07-03,Office Supplies,Storage,Central,Same Day,239.01
+641,2022-12-25,Office Supplies,Storage,West,Same Day,531.01
+642,2021-08-10,Furniture,Chairs,Central,Second Class,557.52
+643,2022-10-07,Technology,Copiers,Central,Standard Class,718.47
+644,2023-12-03,Office Supplies,Storage,South,First Class,87.23
+645,2021-05-30,Technology,Accessories,East,Standard Class,237.78
+646,2022-03-14,Technology,Phones,West,Second Class,319.22
+647,2023-12-02,Furniture,Bookcases,West,Second Class,710.78
+648,2021-09-20,Technology,Phones,Central,First Class,348.51
+649,2021-02-05,Technology,Accessories,Central,Standard Class,558.32
+650,2021-10-27,Furniture,Tables,South,Second Class,79.66
+651,2023-11-06,Furniture,Tables,Central,Second Class,196.69
+652,2023-05-09,Technology,Phones,Central,First Class,622.24
+653,2023-12-24,Office Supplies,Storage,West,Second Class,217.96
+654,2021-01-03,Technology,Accessories,East,Second Class,253.03
+655,2023-10-09,Technology,Phones,Central,Same Day,703.34
+656,2021-05-22,Furniture,Tables,East,Second Class,119.24
+657,2023-03-22,Furniture,Chairs,West,Standard Class,145.56
+658,2022-10-24,Technology,Phones,South,First Class,71.35
+659,2022-12-12,Office Supplies,Paper,Central,Same Day,721.84
+660,2021-03-29,Office Supplies,Paper,East,Standard Class,500.97
+661,2021-11-22,Furniture,Chairs,East,Standard Class,492.38
+662,2021-02-04,Technology,Copiers,West,Same Day,192.22
+663,2023-06-25,Technology,Copiers,Central,First Class,65.91
+664,2023-06-08,Furniture,Bookcases,Central,Same Day,47.57
+665,2021-06-06,Furniture,Chairs,Central,Standard Class,625.29
+666,2021-07-27,Furniture,Tables,East,First Class,375.87
+667,2021-09-30,Office Supplies,Binders,West,Standard Class,427.65
+668,2021-03-02,Technology,Copiers,East,Standard Class,308.5
+669,2022-04-23,Technology,Copiers,West,First Class,130.57
+670,2023-06-29,Technology,Copiers,South,Second Class,199.49
+671,2023-08-26,Office Supplies,Binders,West,Same Day,103.27
+672,2021-06-09,Furniture,Tables,East,Standard Class,91.4
+673,2023-08-26,Technology,Phones,South,Standard Class,473.33
+674,2022-09-09,Technology,Copiers,East,First Class,52.53
+675,2022-07-30,Furniture,Chairs,West,First Class,103.93
+676,2022-08-03,Furniture,Tables,Central,Second Class,208.97
+677,2023-01-29,Furniture,Tables,South,Second Class,270.97
+678,2022-03-29,Office Supplies,Binders,East,Standard Class,70.43
+679,2023-03-10,Furniture,Tables,South,Same Day,345.37
+680,2022-03-26,Furniture,Chairs,East,Standard Class,295.92
+681,2022-08-06,Technology,Phones,South,Second Class,618.13
+682,2023-08-18,Furniture,Chairs,East,Standard Class,274.44
+683,2021-06-12,Technology,Accessories,East,First Class,370.66
+684,2023-04-11,Office Supplies,Paper,South,Second Class,137.21
+685,2023-01-14,Technology,Accessories,South,Standard Class,142.35
+686,2022-02-12,Technology,Accessories,South,Second Class,78.2
+687,2023-03-16,Office Supplies,Paper,Central,First Class,138.39
+688,2022-11-16,Office Supplies,Binders,South,Same Day,197.12
+689,2021-12-24,Office Supplies,Paper,Central,Second Class,577.83
+690,2022-03-10,Furniture,Tables,East,Standard Class,120.62
+691,2023-04-23,Office Supplies,Storage,South,Second Class,937.97
+692,2021-08-03,Office Supplies,Paper,East,Standard Class,393.91
+693,2023-12-25,Office Supplies,Paper,South,Same Day,339.0
+694,2022-10-30,Office Supplies,Paper,South,Same Day,258.58
+695,2023-04-10,Technology,Copiers,West,Second Class,222.6
+696,2021-03-13,Technology,Copiers,East,First Class,156.84
+697,2021-12-28,Office Supplies,Storage,East,Same Day,67.5
+698,2023-04-09,Furniture,Tables,South,Standard Class,124.43
+699,2022-05-14,Office Supplies,Paper,South,First Class,720.7
+700,2023-05-20,Technology,Copiers,South,Standard Class,377.16
+701,2023-11-22,Technology,Phones,Central,Second Class,716.5
+702,2023-08-14,Office Supplies,Binders,East,Second Class,153.43
+703,2022-07-25,Office Supplies,Binders,East,Same Day,100.48
+704,2021-01-10,Furniture,Chairs,Central,Same Day,256.66
+705,2023-11-24,Technology,Phones,South,Same Day,128.57
+706,2022-05-21,Furniture,Tables,West,Standard Class,298.06
+707,2021-11-30,Furniture,Bookcases,East,First Class,53.53
+708,2023-12-17,Office Supplies,Binders,West,Same Day,28.56
+709,2022-01-01,Furniture,Bookcases,East,First Class,329.66
+710,2021-10-29,Furniture,Bookcases,Central,Same Day,733.9
+711,2022-03-01,Office Supplies,Binders,South,First Class,340.24
+712,2023-11-16,Furniture,Tables,South,Same Day,374.45
+713,2022-08-10,Technology,Copiers,South,First Class,265.01
+714,2023-07-28,Furniture,Chairs,West,First Class,284.25
+715,2022-01-24,Technology,Phones,Central,Standard Class,64.01
+716,2023-08-27,Furniture,Bookcases,South,Standard Class,132.9
+717,2021-11-29,Furniture,Bookcases,South,First Class,573.89
+718,2021-08-11,Furniture,Tables,West,Second Class,193.6
+719,2023-10-29,Furniture,Chairs,West,Same Day,566.18
+720,2021-07-15,Furniture,Tables,South,First Class,278.46
+721,2022-09-27,Office Supplies,Binders,South,Standard Class,289.06
+722,2021-11-01,Furniture,Tables,East,Standard Class,194.79
+723,2022-05-27,Furniture,Bookcases,Central,Second Class,413.72
+724,2021-01-11,Furniture,Bookcases,East,Same Day,484.8
+725,2022-02-02,Furniture,Chairs,East,Standard Class,126.59
+726,2021-07-09,Furniture,Chairs,West,Same Day,70.66
+727,2023-01-24,Furniture,Tables,South,Standard Class,36.36
+728,2021-09-06,Technology,Accessories,East,Second Class,361.84
+729,2023-03-06,Technology,Phones,Central,First Class,333.05
+730,2021-05-30,Office Supplies,Paper,West,Same Day,1110.2
+731,2023-11-01,Furniture,Tables,South,Same Day,266.18
+732,2022-10-10,Technology,Phones,South,First Class,231.33
+733,2023-08-12,Technology,Copiers,East,First Class,305.44
+734,2021-07-22,Technology,Accessories,West,Second Class,317.61
+735,2024-01-01,Office Supplies,Binders,West,Standard Class,217.63
+736,2022-05-02,Technology,Copiers,South,Standard Class,130.35
+737,2022-09-03,Technology,Phones,West,First Class,255.5
+738,2022-05-27,Technology,Phones,West,Same Day,248.24
+739,2021-01-20,Technology,Accessories,Central,First Class,245.18
+740,2023-03-22,Furniture,Chairs,South,Standard Class,444.15
+741,2021-03-04,Furniture,Tables,South,Second Class,252.01
+742,2022-01-01,Technology,Copiers,East,First Class,72.29
+743,2023-12-20,Office Supplies,Storage,East,Same Day,149.57
+744,2022-02-28,Office Supplies,Storage,East,First Class,215.51
+745,2021-03-02,Furniture,Tables,South,Standard Class,261.13
+746,2022-04-14,Furniture,Bookcases,South,Same Day,367.24
+747,2022-10-23,Furniture,Chairs,South,First Class,262.69
+748,2021-02-15,Technology,Accessories,Central,Standard Class,29.4
+749,2021-05-04,Technology,Accessories,West,Second Class,81.29
+750,2022-12-08,Furniture,Chairs,Central,Second Class,385.1
+751,2022-02-22,Office Supplies,Paper,South,Second Class,210.9
+752,2021-05-26,Office Supplies,Storage,Central,Standard Class,279.91
+753,2022-03-18,Furniture,Chairs,Central,Standard Class,190.24
+754,2023-05-25,Furniture,Chairs,East,Standard Class,149.04
+755,2022-11-14,Office Supplies,Binders,South,Same Day,195.88
+756,2022-03-15,Office Supplies,Storage,Central,Second Class,282.4
+757,2022-03-27,Furniture,Tables,Central,Same Day,250.59
+758,2022-12-22,Office Supplies,Binders,South,Same Day,482.65
+759,2021-12-07,Technology,Copiers,South,Same Day,58.61
+760,2023-03-10,Technology,Phones,Central,Same Day,67.73
+761,2023-01-04,Office Supplies,Storage,Central,First Class,208.95
+762,2023-03-13,Office Supplies,Paper,Central,First Class,370.2
+763,2021-08-04,Technology,Copiers,Central,Second Class,427.71
+764,2022-10-15,Office Supplies,Storage,West,Standard Class,154.15
+765,2022-03-15,Office Supplies,Paper,Central,Same Day,9.07
+766,2022-03-21,Technology,Accessories,East,Standard Class,158.44
+767,2021-06-13,Office Supplies,Binders,East,Same Day,333.81
+768,2021-11-09,Technology,Accessories,Central,First Class,247.05
+769,2022-03-14,Technology,Accessories,East,Same Day,379.79
+770,2021-02-19,Technology,Accessories,West,Same Day,560.68
+771,2022-09-24,Furniture,Chairs,Central,Same Day,220.54
+772,2021-04-12,Office Supplies,Paper,Central,Second Class,173.61
+773,2021-09-09,Office Supplies,Storage,West,Same Day,114.82
+774,2022-12-03,Technology,Phones,West,Same Day,67.33
+775,2021-04-11,Furniture,Bookcases,East,Standard Class,49.64
+776,2023-02-15,Furniture,Chairs,East,Standard Class,141.53
+777,2022-07-04,Technology,Phones,East,Standard Class,510.29
+778,2023-07-16,Office Supplies,Paper,Central,Standard Class,405.6
+779,2021-01-28,Technology,Phones,South,Same Day,166.92
+780,2022-12-12,Office Supplies,Paper,East,Same Day,943.67
+781,2021-06-03,Office Supplies,Paper,Central,Second Class,150.09
+782,2022-07-13,Technology,Accessories,East,Same Day,596.3
+783,2023-08-18,Office Supplies,Paper,South,First Class,690.69
+784,2022-09-02,Office Supplies,Paper,East,Same Day,350.07
+785,2023-11-29,Technology,Copiers,Central,Standard Class,140.39
+786,2022-02-12,Office Supplies,Paper,East,Second Class,185.72
+787,2023-06-09,Office Supplies,Paper,South,Same Day,287.5
+788,2023-04-11,Office Supplies,Paper,Central,First Class,69.35
+789,2021-09-03,Office Supplies,Paper,Central,Second Class,105.1
+790,2022-08-12,Office Supplies,Storage,Central,Standard Class,97.13
+791,2023-10-06,Furniture,Chairs,Central,Same Day,368.99
+792,2021-05-06,Furniture,Chairs,West,Standard Class,557.08
+793,2023-04-19,Furniture,Chairs,East,First Class,416.67
+794,2021-12-17,Office Supplies,Storage,East,Second Class,496.74
+795,2022-12-27,Technology,Phones,West,Second Class,130.22
+796,2021-01-08,Furniture,Bookcases,Central,Second Class,192.57
+797,2023-04-22,Furniture,Chairs,West,First Class,204.5
+798,2023-04-06,Technology,Copiers,Central,First Class,349.08
+799,2021-11-26,Office Supplies,Paper,Central,Second Class,144.94
+800,2022-03-15,Technology,Copiers,East,Standard Class,476.16
+801,2023-08-26,Technology,Phones,West,First Class,678.16
+802,2023-01-17,Technology,Accessories,Central,Same Day,361.8
+803,2021-05-17,Office Supplies,Storage,West,Second Class,185.78
+804,2021-07-08,Office Supplies,Storage,Central,Same Day,120.16
+805,2023-04-19,Technology,Phones,Central,Second Class,97.35
+806,2021-11-22,Technology,Phones,South,Standard Class,29.83
+807,2023-09-11,Technology,Copiers,South,Standard Class,209.56
+808,2022-12-27,Technology,Accessories,East,Same Day,200.14
+809,2021-07-22,Technology,Phones,South,Same Day,456.39
+810,2022-05-03,Office Supplies,Paper,South,First Class,153.23
+811,2021-07-07,Technology,Copiers,West,Second Class,219.01
+812,2021-03-17,Furniture,Bookcases,East,Same Day,308.81
+813,2021-02-11,Furniture,Bookcases,South,Standard Class,357.64
+814,2022-08-07,Office Supplies,Storage,East,Second Class,421.02
+815,2023-07-11,Furniture,Chairs,Central,Same Day,286.72
+816,2023-04-22,Technology,Accessories,West,Same Day,73.57
+817,2021-01-21,Furniture,Chairs,South,Second Class,335.66
+818,2023-03-07,Furniture,Chairs,South,Standard Class,143.89
+819,2021-10-24,Office Supplies,Binders,South,Second Class,574.63
+820,2022-05-10,Furniture,Bookcases,West,Second Class,254.14
+821,2022-04-20,Office Supplies,Binders,East,First Class,299.58
+822,2023-09-12,Furniture,Chairs,West,Second Class,1168.03
+823,2023-11-13,Office Supplies,Storage,West,Second Class,426.1
+824,2022-10-07,Technology,Phones,Central,Standard Class,331.31
+825,2023-12-21,Furniture,Chairs,East,Same Day,224.14
+826,2023-04-11,Furniture,Chairs,Central,Second Class,79.96
+827,2022-02-26,Furniture,Bookcases,East,Same Day,211.67
+828,2023-07-02,Office Supplies,Storage,West,Second Class,118.82
+829,2021-04-29,Furniture,Chairs,Central,Same Day,732.84
+830,2022-01-20,Technology,Phones,South,Standard Class,334.48
+831,2022-07-23,Technology,Accessories,Central,Standard Class,560.7
+832,2023-12-05,Technology,Copiers,Central,Second Class,149.53
+833,2021-05-16,Office Supplies,Paper,South,Second Class,126.73
+834,2023-08-15,Office Supplies,Binders,West,First Class,397.72
+835,2022-08-18,Technology,Accessories,South,First Class,114.51
+836,2022-12-14,Technology,Phones,South,Second Class,174.49
+837,2021-06-19,Office Supplies,Storage,West,Second Class,755.71
+838,2022-08-22,Technology,Copiers,West,Same Day,180.32
+839,2023-11-28,Office Supplies,Storage,East,Second Class,63.64
+840,2023-05-05,Furniture,Tables,East,Second Class,40.55
+841,2022-02-06,Office Supplies,Binders,South,Standard Class,55.66
+842,2023-01-05,Technology,Copiers,Central,Second Class,582.87
+843,2021-11-06,Office Supplies,Paper,Central,Standard Class,157.64
+844,2022-02-19,Technology,Phones,West,Standard Class,1144.66
+845,2023-09-06,Technology,Accessories,West,Second Class,683.31
+846,2021-03-07,Office Supplies,Paper,West,Second Class,874.44
+847,2022-10-03,Furniture,Chairs,East,Second Class,505.37
+848,2021-09-05,Technology,Accessories,West,Standard Class,383.19
+849,2022-01-31,Technology,Phones,West,First Class,122.67
+850,2022-12-27,Office Supplies,Paper,East,Same Day,249.35
+851,2023-02-22,Technology,Phones,East,First Class,410.56
+852,2021-02-17,Furniture,Bookcases,Central,Same Day,484.38
+853,2021-11-25,Furniture,Tables,Central,Second Class,87.68
+854,2021-02-05,Furniture,Bookcases,West,Same Day,214.34
+855,2023-05-08,Office Supplies,Storage,East,Same Day,234.33
+856,2022-08-28,Technology,Phones,East,Same Day,227.16
+857,2023-01-24,Technology,Phones,West,Same Day,99.49
+858,2022-03-24,Furniture,Tables,Central,Second Class,808.35
+859,2021-10-04,Office Supplies,Storage,South,Second Class,208.66
+860,2023-07-26,Furniture,Bookcases,East,Second Class,106.43
+861,2021-08-21,Furniture,Tables,Central,Second Class,821.34
+862,2022-05-27,Technology,Accessories,South,Second Class,683.74
+863,2021-03-27,Office Supplies,Paper,East,Same Day,278.29
+864,2023-08-19,Furniture,Bookcases,South,Same Day,170.18
+865,2023-09-22,Technology,Copiers,Central,Standard Class,50.89
+866,2022-10-02,Technology,Copiers,East,Standard Class,363.23
+867,2023-09-29,Technology,Accessories,South,First Class,160.38
+868,2021-03-13,Office Supplies,Binders,West,Same Day,244.71
+869,2023-11-29,Furniture,Chairs,West,Second Class,774.19
+870,2023-10-21,Technology,Phones,East,Second Class,150.58
+871,2022-09-23,Office Supplies,Paper,Central,First Class,352.21
+872,2023-06-02,Office Supplies,Storage,South,Same Day,429.63
+873,2023-06-06,Technology,Accessories,Central,First Class,570.81
+874,2023-07-17,Office Supplies,Paper,East,Standard Class,231.1
+875,2023-05-11,Technology,Accessories,South,Standard Class,212.6
+876,2021-02-14,Technology,Accessories,East,Second Class,208.66
+877,2022-07-23,Office Supplies,Paper,Central,First Class,328.1
+878,2022-03-06,Furniture,Bookcases,South,Same Day,664.78
+879,2023-12-16,Technology,Copiers,West,Standard Class,201.09
+880,2021-08-03,Technology,Copiers,Central,Second Class,13.09
+881,2021-05-25,Technology,Accessories,East,Second Class,463.24
+882,2023-11-11,Office Supplies,Binders,Central,Same Day,263.2
+883,2023-07-08,Technology,Copiers,West,Standard Class,363.81
+884,2023-07-22,Furniture,Bookcases,West,First Class,53.07
+885,2023-05-29,Technology,Accessories,East,Same Day,160.91
+886,2021-04-11,Furniture,Chairs,South,Standard Class,437.51
+887,2021-07-09,Furniture,Chairs,East,First Class,77.28
+888,2022-07-22,Office Supplies,Binders,East,First Class,351.64
+889,2023-05-16,Furniture,Tables,West,Same Day,243.16
+890,2022-01-02,Technology,Phones,East,Same Day,133.02
+891,2021-04-03,Office Supplies,Paper,Central,Same Day,123.63
+892,2021-01-20,Furniture,Tables,South,Second Class,100.37
+893,2022-10-15,Office Supplies,Paper,South,Same Day,262.14
+894,2021-06-18,Furniture,Chairs,East,Second Class,285.75
+895,2021-12-05,Technology,Phones,East,Standard Class,185.45
+896,2023-06-05,Office Supplies,Paper,South,Standard Class,94.55
+897,2022-05-03,Technology,Accessories,West,Second Class,344.43
+898,2022-11-10,Office Supplies,Paper,South,Standard Class,469.08
+899,2022-09-28,Office Supplies,Binders,Central,Same Day,390.09
+900,2022-06-13,Furniture,Chairs,Central,First Class,897.58
+901,2021-08-14,Technology,Accessories,West,Same Day,216.23
+902,2023-07-22,Office Supplies,Binders,Central,First Class,621.94
+903,2022-10-19,Furniture,Bookcases,East,Second Class,144.61
+904,2022-06-30,Office Supplies,Storage,Central,Same Day,124.98
+905,2022-06-07,Technology,Accessories,West,Second Class,274.52
+906,2021-03-20,Furniture,Tables,East,Second Class,715.05
+907,2023-11-23,Technology,Copiers,Central,First Class,197.64
+908,2023-07-22,Technology,Copiers,South,Standard Class,53.03
+909,2022-07-29,Furniture,Bookcases,West,First Class,462.97
+910,2023-02-26,Furniture,Bookcases,West,Second Class,235.23
+911,2021-04-21,Furniture,Bookcases,South,Same Day,312.43
+912,2022-05-25,Furniture,Chairs,East,Same Day,130.85
+913,2021-09-04,Office Supplies,Paper,East,Standard Class,272.58
+914,2021-04-24,Furniture,Bookcases,East,Standard Class,62.11
+915,2021-12-19,Furniture,Tables,West,First Class,816.51
+916,2021-01-04,Office Supplies,Paper,South,Second Class,522.9
+917,2021-02-24,Office Supplies,Storage,South,Second Class,263.37
+918,2023-11-20,Office Supplies,Paper,South,Second Class,454.17
+919,2022-01-19,Furniture,Chairs,East,First Class,144.94
+920,2021-03-22,Technology,Phones,South,First Class,507.19
+921,2022-02-11,Technology,Accessories,South,Second Class,190.61
+922,2023-06-06,Office Supplies,Binders,South,Standard Class,179.7
+923,2022-02-21,Office Supplies,Paper,South,First Class,106.9
+924,2021-03-11,Technology,Copiers,South,First Class,341.33
+925,2021-01-16,Office Supplies,Storage,West,First Class,254.72
+926,2021-01-15,Office Supplies,Paper,West,First Class,635.31
+927,2023-03-17,Technology,Phones,West,Standard Class,95.54
+928,2022-09-06,Technology,Accessories,West,First Class,342.45
+929,2023-05-25,Office Supplies,Storage,Central,Second Class,557.63
+930,2023-06-30,Furniture,Bookcases,East,Standard Class,289.56
+931,2023-09-18,Furniture,Bookcases,South,Second Class,187.66
+932,2021-10-25,Technology,Copiers,East,Second Class,284.06
+933,2022-03-20,Technology,Accessories,West,Same Day,601.8
+934,2023-05-16,Office Supplies,Storage,Central,First Class,601.63
+935,2022-07-13,Furniture,Tables,Central,Same Day,227.83
+936,2021-04-10,Office Supplies,Paper,East,Same Day,594.66
+937,2021-11-03,Technology,Copiers,West,Same Day,245.6
+938,2021-04-04,Office Supplies,Binders,East,Same Day,450.67
+939,2022-01-18,Technology,Copiers,Central,Same Day,371.52
+940,2022-11-22,Technology,Copiers,Central,Standard Class,181.55
+941,2021-03-06,Technology,Copiers,South,First Class,110.54
+942,2023-12-24,Technology,Accessories,West,Second Class,567.54
+943,2022-02-28,Furniture,Tables,Central,Second Class,675.47
+944,2023-07-01,Furniture,Bookcases,Central,Standard Class,336.62
+945,2023-05-04,Technology,Copiers,West,Second Class,245.34
+946,2023-02-06,Furniture,Bookcases,South,Second Class,84.13
+947,2021-06-24,Office Supplies,Paper,West,Second Class,557.73
+948,2023-01-18,Furniture,Bookcases,West,Standard Class,308.97
+949,2022-03-31,Furniture,Bookcases,South,Same Day,203.14
+950,2021-07-23,Technology,Phones,East,First Class,459.53
+951,2022-01-11,Office Supplies,Binders,South,First Class,69.44
+952,2022-09-23,Office Supplies,Paper,East,First Class,102.01
+953,2022-06-26,Technology,Accessories,Central,Second Class,140.38
+954,2022-10-19,Office Supplies,Paper,Central,Standard Class,363.31
+955,2023-05-24,Office Supplies,Binders,South,Standard Class,286.41
+956,2023-06-13,Technology,Accessories,South,First Class,394.16
+957,2023-03-04,Furniture,Bookcases,South,Same Day,532.34
+958,2022-05-19,Office Supplies,Binders,West,Second Class,404.17
+959,2022-09-21,Technology,Phones,East,First Class,827.9
+960,2022-06-16,Furniture,Tables,East,First Class,531.51
+961,2023-12-04,Technology,Copiers,Central,Second Class,227.41
+962,2022-12-19,Technology,Copiers,East,First Class,160.0
+963,2022-09-25,Furniture,Bookcases,West,Second Class,232.87
+964,2022-04-18,Technology,Accessories,South,Standard Class,414.09
+965,2023-01-08,Furniture,Chairs,South,Second Class,174.8
+966,2023-06-29,Office Supplies,Paper,Central,Standard Class,422.1
+967,2023-02-26,Technology,Accessories,Central,Second Class,389.1
+968,2023-07-03,Office Supplies,Storage,East,Same Day,109.08
+969,2022-03-03,Furniture,Bookcases,West,First Class,524.78
+970,2023-09-06,Technology,Accessories,South,First Class,328.08
+971,2022-03-28,Office Supplies,Storage,East,Standard Class,801.64
+972,2021-04-05,Furniture,Tables,Central,Standard Class,246.26
+973,2021-01-22,Technology,Accessories,Central,Standard Class,195.77
+974,2021-11-07,Office Supplies,Storage,South,Same Day,96.43
+975,2021-05-10,Technology,Copiers,Central,First Class,94.99
+976,2023-07-12,Furniture,Bookcases,West,First Class,482.87
+977,2022-12-08,Office Supplies,Binders,West,Second Class,749.11
+978,2023-01-12,Office Supplies,Paper,West,First Class,230.31
+979,2022-08-16,Technology,Accessories,East,First Class,218.71
+980,2022-09-05,Furniture,Chairs,East,Second Class,263.81
+981,2022-07-27,Technology,Accessories,Central,First Class,549.24
+982,2021-01-13,Furniture,Tables,East,Same Day,109.99
+983,2023-07-19,Office Supplies,Storage,West,Same Day,299.06
+984,2022-01-10,Furniture,Bookcases,Central,Second Class,490.39
+985,2022-09-17,Furniture,Bookcases,West,Second Class,360.13
+986,2022-09-09,Technology,Accessories,Central,Same Day,6.89
+987,2022-10-26,Office Supplies,Paper,South,Second Class,405.59
+988,2021-05-24,Furniture,Chairs,South,Standard Class,362.64
+989,2021-05-30,Office Supplies,Storage,West,Second Class,621.51
+990,2023-02-09,Furniture,Bookcases,West,Second Class,710.22
+991,2022-12-25,Technology,Phones,Central,Same Day,600.87
+992,2022-11-01,Technology,Copiers,West,Standard Class,264.89
+993,2021-10-26,Office Supplies,Storage,South,First Class,50.4
+994,2024-01-01,Furniture,Chairs,South,Standard Class,217.46
+995,2023-03-02,Technology,Accessories,East,First Class,258.54
+996,2023-05-28,Office Supplies,Paper,East,First Class,742.86
+997,2021-04-13,Office Supplies,Paper,South,Second Class,132.02
+998,2023-08-08,Technology,Copiers,East,Standard Class,71.6
+999,2022-08-20,Furniture,Bookcases,East,First Class,175.74
+1000,2022-12-09,Technology,Phones,East,Second Class,138.46
+1001,2022-11-03,Furniture,Chairs,Central,Standard Class,64.59
+1002,2022-09-30,Technology,Accessories,East,Standard Class,234.25
+1003,2023-07-23,Office Supplies,Storage,Central,Same Day,266.31
+1004,2022-03-13,Office Supplies,Binders,Central,First Class,60.64
+1005,2023-12-23,Office Supplies,Binders,East,First Class,194.78
+1006,2021-07-26,Technology,Phones,West,First Class,130.8
+1007,2022-12-30,Technology,Phones,South,Standard Class,272.94
+1008,2023-11-13,Technology,Phones,West,Same Day,293.6
+1009,2023-03-08,Technology,Copiers,West,Same Day,130.82
+1010,2021-11-11,Furniture,Tables,East,Second Class,521.62
+1011,2022-12-20,Technology,Copiers,West,Standard Class,254.15
+1012,2023-04-06,Office Supplies,Paper,South,Same Day,136.38
+1013,2022-04-22,Office Supplies,Paper,East,Second Class,56.51
+1014,2021-02-25,Furniture,Bookcases,West,Standard Class,305.38
+1015,2023-06-25,Office Supplies,Paper,West,Second Class,362.02
+1016,2021-01-12,Technology,Phones,Central,Second Class,167.64
+1017,2021-01-29,Office Supplies,Paper,East,Same Day,279.52
+1018,2022-01-04,Office Supplies,Binders,East,Same Day,710.2
+1019,2021-03-21,Office Supplies,Binders,East,Standard Class,466.99
+1020,2023-09-18,Furniture,Bookcases,South,Second Class,21.94
+1021,2021-12-21,Furniture,Tables,East,Standard Class,135.0
+1022,2023-10-05,Office Supplies,Paper,South,Second Class,225.43
+1023,2022-08-24,Furniture,Tables,Central,Standard Class,265.18
+1024,2022-05-18,Technology,Accessories,West,Same Day,284.1
+1025,2023-02-06,Furniture,Bookcases,South,First Class,345.72
+1026,2023-11-09,Technology,Copiers,Central,Second Class,231.39
+1027,2021-06-09,Technology,Copiers,South,Same Day,253.67
+1028,2021-06-05,Office Supplies,Binders,Central,Standard Class,483.72
+1029,2023-02-27,Technology,Phones,East,Same Day,309.83
+1030,2023-09-30,Furniture,Chairs,East,Second Class,87.49
+1031,2021-05-08,Office Supplies,Binders,West,Same Day,271.62
+1032,2022-01-19,Office Supplies,Paper,Central,First Class,225.93
+1033,2023-04-08,Office Supplies,Storage,Central,Standard Class,33.97
+1034,2021-07-08,Technology,Phones,West,First Class,282.25
+1035,2022-04-13,Furniture,Chairs,West,First Class,99.13
+1036,2021-05-29,Technology,Copiers,South,Second Class,488.65
+1037,2023-09-24,Technology,Copiers,Central,Standard Class,342.19
+1038,2022-02-07,Technology,Phones,East,Second Class,82.77
+1039,2021-10-18,Office Supplies,Binders,Central,Second Class,473.58
+1040,2022-01-24,Technology,Accessories,South,Standard Class,628.22
+1041,2022-02-15,Office Supplies,Storage,West,Second Class,204.64
+1042,2023-09-19,Office Supplies,Paper,Central,Second Class,224.88
+1043,2023-10-13,Office Supplies,Binders,East,Standard Class,442.18
+1044,2022-09-25,Furniture,Tables,East,Same Day,597.2
+1045,2021-05-22,Furniture,Chairs,Central,Same Day,46.48
+1046,2021-05-30,Office Supplies,Storage,West,Standard Class,92.66
+1047,2023-10-25,Furniture,Bookcases,East,Same Day,178.59
+1048,2023-01-30,Furniture,Tables,West,Same Day,194.97
+1049,2023-08-05,Furniture,Bookcases,East,Second Class,433.41
+1050,2021-11-29,Furniture,Tables,Central,Same Day,599.27
+1051,2023-12-30,Office Supplies,Storage,West,Same Day,629.37
+1052,2023-02-22,Office Supplies,Binders,South,First Class,45.17
+1053,2023-06-10,Office Supplies,Paper,West,Second Class,124.16
+1054,2023-02-05,Furniture,Chairs,East,Same Day,151.93
+1055,2022-12-01,Office Supplies,Storage,East,Second Class,123.71
+1056,2022-02-09,Technology,Copiers,Central,Second Class,341.44
+1057,2021-12-07,Office Supplies,Binders,East,Same Day,371.41
+1058,2021-10-26,Office Supplies,Binders,South,First Class,251.25
+1059,2022-09-22,Furniture,Tables,South,First Class,233.28
+1060,2022-12-05,Furniture,Tables,West,Standard Class,184.98
+1061,2022-03-09,Furniture,Tables,Central,Second Class,203.16
+1062,2023-07-05,Furniture,Tables,West,Standard Class,704.94
+1063,2022-09-06,Furniture,Bookcases,South,Second Class,410.71
+1064,2023-12-26,Furniture,Tables,East,Second Class,190.77
+1065,2023-07-01,Technology,Accessories,East,Standard Class,229.79
+1066,2022-11-05,Office Supplies,Binders,Central,Standard Class,347.11
+1067,2023-02-10,Furniture,Chairs,West,First Class,82.75
+1068,2021-07-22,Furniture,Chairs,Central,Same Day,278.72
+1069,2022-01-24,Furniture,Tables,West,Second Class,395.03
+1070,2021-10-25,Office Supplies,Storage,South,Standard Class,360.07
+1071,2022-11-29,Office Supplies,Binders,South,Second Class,126.37
+1072,2022-08-02,Technology,Phones,Central,Standard Class,148.02
+1073,2022-05-18,Office Supplies,Binders,South,Same Day,29.22
+1074,2022-05-05,Furniture,Chairs,South,Standard Class,424.6
+1075,2022-12-20,Technology,Copiers,East,First Class,905.13
+1076,2021-08-03,Furniture,Bookcases,Central,Second Class,110.88
+1077,2023-01-12,Furniture,Bookcases,East,First Class,529.55
+1078,2023-08-11,Technology,Accessories,South,Same Day,853.31
+1079,2021-06-11,Technology,Accessories,East,Standard Class,170.29
+1080,2023-03-23,Technology,Phones,West,Same Day,230.04
+1081,2023-08-01,Technology,Phones,South,Second Class,302.43
+1082,2021-09-28,Technology,Phones,East,Second Class,351.95
+1083,2023-01-08,Office Supplies,Binders,West,Standard Class,314.52
+1084,2022-02-28,Technology,Copiers,South,Same Day,181.57
+1085,2022-07-07,Technology,Accessories,Central,Standard Class,390.72
+1086,2022-11-09,Technology,Phones,West,Second Class,185.04
+1087,2023-03-06,Furniture,Tables,Central,Standard Class,330.37
+1088,2021-11-03,Technology,Phones,South,Standard Class,244.38
+1089,2022-02-23,Technology,Copiers,West,Second Class,39.85
+1090,2023-11-11,Furniture,Tables,West,Same Day,582.64
+1091,2021-04-23,Technology,Phones,South,Second Class,151.48
+1092,2022-06-13,Furniture,Chairs,South,First Class,621.79
+1093,2021-03-27,Office Supplies,Storage,West,Same Day,515.34
+1094,2022-10-08,Technology,Accessories,South,Second Class,295.77
+1095,2023-12-29,Office Supplies,Storage,East,Standard Class,365.1
+1096,2021-09-01,Office Supplies,Paper,Central,Standard Class,396.92
+1097,2021-12-01,Technology,Copiers,South,First Class,213.7
+1098,2022-06-10,Office Supplies,Storage,South,Standard Class,221.84
+1099,2021-09-20,Technology,Copiers,West,Second Class,383.46
+1100,2022-11-04,Furniture,Bookcases,West,First Class,246.39
+1101,2021-04-04,Office Supplies,Binders,East,Same Day,182.06
+1102,2022-09-30,Technology,Copiers,Central,Same Day,128.21
+1103,2023-09-20,Technology,Accessories,South,First Class,337.4
+1104,2022-08-05,Furniture,Tables,East,First Class,147.22
+1105,2023-11-06,Technology,Phones,Central,Second Class,456.95
+1106,2023-07-25,Furniture,Tables,East,Standard Class,483.72
+1107,2021-12-24,Office Supplies,Storage,West,Standard Class,363.1
+1108,2023-05-09,Office Supplies,Paper,East,Same Day,418.34
+1109,2022-08-24,Office Supplies,Binders,Central,Same Day,363.87
+1110,2023-11-08,Technology,Copiers,East,Second Class,439.24
+1111,2022-12-18,Furniture,Bookcases,South,Second Class,426.36
+1112,2022-07-21,Office Supplies,Paper,South,First Class,324.42
+1113,2021-08-14,Technology,Accessories,South,Standard Class,519.77
+1114,2021-02-12,Furniture,Bookcases,Central,Same Day,219.73
+1115,2023-08-04,Furniture,Chairs,Central,Same Day,131.72
+1116,2023-03-02,Technology,Copiers,East,Same Day,125.8
+1117,2021-04-08,Furniture,Chairs,East,Second Class,194.98
+1118,2023-11-02,Office Supplies,Paper,East,Second Class,33.37
+1119,2022-09-16,Office Supplies,Binders,East,First Class,293.62
+1120,2022-05-18,Office Supplies,Paper,South,Standard Class,400.63
+1121,2022-08-05,Technology,Accessories,Central,Same Day,479.06
+1122,2021-07-29,Furniture,Tables,Central,Standard Class,50.03
+1123,2022-08-26,Office Supplies,Binders,West,Standard Class,129.48
+1124,2021-06-18,Furniture,Tables,Central,Standard Class,447.48
+1125,2023-01-10,Office Supplies,Paper,East,Second Class,214.31
+1126,2022-02-11,Office Supplies,Binders,Central,Same Day,394.34
+1127,2022-06-24,Furniture,Tables,South,Same Day,78.62
+1128,2021-07-11,Furniture,Tables,West,Second Class,616.9
+1129,2023-11-26,Furniture,Bookcases,South,Second Class,72.55
+1130,2023-03-28,Furniture,Tables,West,Standard Class,287.32
+1131,2023-06-26,Office Supplies,Binders,Central,First Class,292.84
+1132,2023-03-30,Furniture,Tables,West,Second Class,166.37
+1133,2021-03-20,Office Supplies,Binders,Central,Second Class,354.06
+1134,2022-01-02,Furniture,Tables,South,Second Class,361.21
+1135,2021-04-18,Office Supplies,Storage,Central,First Class,333.95
+1136,2021-02-20,Office Supplies,Paper,Central,Standard Class,163.82
+1137,2023-02-19,Technology,Accessories,Central,Second Class,138.16
+1138,2023-10-21,Technology,Accessories,Central,Same Day,178.82
+1139,2022-11-12,Technology,Phones,East,Second Class,122.16
+1140,2021-01-04,Furniture,Chairs,East,Same Day,535.98
+1141,2021-09-17,Technology,Phones,South,First Class,191.73
+1142,2022-04-25,Technology,Copiers,South,First Class,281.27
+1143,2022-04-07,Furniture,Tables,Central,Same Day,446.24
+1144,2021-09-18,Furniture,Bookcases,South,Second Class,116.87
+1145,2022-04-16,Office Supplies,Storage,West,Standard Class,69.45
+1146,2022-11-30,Technology,Copiers,West,Same Day,122.54
+1147,2021-01-03,Furniture,Tables,Central,Same Day,304.37
+1148,2022-08-21,Technology,Phones,South,Second Class,289.39
+1149,2022-08-25,Technology,Phones,South,Second Class,333.49
+1150,2023-09-23,Furniture,Bookcases,Central,Standard Class,230.54
+1151,2021-12-06,Technology,Copiers,East,Second Class,12.69
+1152,2022-09-28,Technology,Copiers,South,First Class,224.89
+1153,2023-10-09,Furniture,Bookcases,West,Second Class,487.42
+1154,2022-01-08,Technology,Accessories,East,Same Day,573.9
+1155,2021-04-13,Furniture,Chairs,East,Second Class,267.56
+1156,2022-02-14,Furniture,Chairs,Central,Standard Class,290.19
+1157,2023-04-12,Furniture,Tables,West,Same Day,389.21
+1158,2021-07-14,Office Supplies,Storage,East,Same Day,563.11
+1159,2023-08-22,Furniture,Tables,South,First Class,250.1
+1160,2021-05-25,Office Supplies,Storage,South,First Class,385.43
+1161,2023-06-05,Furniture,Bookcases,East,First Class,157.83
+1162,2023-01-26,Office Supplies,Binders,Central,Same Day,80.29
+1163,2023-07-22,Technology,Accessories,West,Standard Class,172.1
+1164,2021-03-26,Furniture,Tables,South,Same Day,649.94
+1165,2023-03-24,Office Supplies,Binders,Central,Second Class,390.88
+1166,2023-03-02,Office Supplies,Storage,West,First Class,87.96
+1167,2021-09-29,Technology,Copiers,South,Standard Class,403.61
+1168,2023-01-05,Furniture,Bookcases,West,Same Day,94.58
+1169,2023-04-01,Office Supplies,Storage,South,Standard Class,330.21
+1170,2023-10-15,Technology,Phones,West,Second Class,112.84
+1171,2021-10-14,Office Supplies,Paper,Central,Second Class,83.17
+1172,2023-10-31,Technology,Accessories,Central,First Class,722.1
+1173,2022-03-13,Technology,Accessories,East,Second Class,191.61
+1174,2021-07-07,Furniture,Bookcases,West,Second Class,385.94
+1175,2023-07-25,Office Supplies,Storage,South,Standard Class,258.01
+1176,2023-05-06,Office Supplies,Paper,South,Same Day,101.81
+1177,2021-07-17,Furniture,Tables,West,Standard Class,208.29
+1178,2022-07-05,Office Supplies,Paper,West,Same Day,102.65
+1179,2021-04-18,Office Supplies,Paper,East,First Class,1068.67
+1180,2023-07-27,Office Supplies,Storage,East,Standard Class,434.8
+1181,2022-12-12,Office Supplies,Storage,East,First Class,254.38
+1182,2021-05-12,Office Supplies,Binders,South,First Class,371.62
+1183,2022-11-16,Technology,Phones,South,First Class,415.7
+1184,2022-01-20,Furniture,Chairs,East,Standard Class,416.46
+1185,2021-10-23,Office Supplies,Storage,East,First Class,404.25
+1186,2021-10-08,Furniture,Chairs,Central,First Class,383.01
+1187,2021-09-12,Office Supplies,Binders,West,Second Class,270.25
+1188,2021-01-08,Office Supplies,Paper,West,Standard Class,685.93
+1189,2023-11-02,Office Supplies,Storage,East,Second Class,283.28
+1190,2023-02-16,Office Supplies,Binders,West,Same Day,259.98
+1191,2021-01-15,Office Supplies,Binders,East,First Class,285.09
+1192,2021-01-10,Office Supplies,Storage,South,Same Day,300.28
+1193,2021-10-05,Furniture,Tables,Central,Standard Class,50.47
+1194,2023-06-27,Furniture,Chairs,Central,Same Day,121.44
+1195,2021-06-29,Technology,Accessories,West,Second Class,230.53
+1196,2023-02-07,Office Supplies,Storage,East,Second Class,47.71
+1197,2021-02-10,Technology,Copiers,South,Same Day,254.07
+1198,2022-05-13,Technology,Accessories,Central,Second Class,297.39
+1199,2021-02-23,Technology,Copiers,South,First Class,76.76
+1200,2022-12-15,Furniture,Chairs,West,Same Day,148.63
+1201,2022-12-03,Office Supplies,Binders,West,Same Day,589.38
+1202,2022-10-09,Office Supplies,Paper,South,First Class,374.29
+1203,2021-10-30,Technology,Copiers,West,Standard Class,359.42
+1204,2023-08-25,Office Supplies,Binders,West,Same Day,542.16
+1205,2023-08-26,Technology,Phones,East,Second Class,123.56
+1206,2021-06-10,Furniture,Tables,West,Standard Class,76.99
+1207,2021-06-15,Furniture,Bookcases,East,Same Day,494.08
+1208,2021-03-03,Furniture,Bookcases,East,Standard Class,235.58
+1209,2023-08-29,Office Supplies,Binders,Central,Second Class,120.64
+1210,2021-08-06,Office Supplies,Storage,Central,First Class,50.03
+1211,2023-01-27,Technology,Copiers,West,Same Day,287.51
+1212,2021-02-10,Office Supplies,Binders,East,Standard Class,214.98
+1213,2022-11-21,Furniture,Chairs,West,First Class,186.97
+1214,2022-04-15,Furniture,Chairs,East,Same Day,19.72
+1215,2021-07-30,Furniture,Bookcases,West,First Class,680.04
+1216,2021-06-12,Technology,Copiers,Central,Same Day,63.21
+1217,2023-10-07,Technology,Accessories,Central,Second Class,201.84
+1218,2023-06-16,Furniture,Tables,East,First Class,175.75
+1219,2023-06-29,Furniture,Chairs,West,Standard Class,382.17
+1220,2021-02-11,Technology,Phones,West,Same Day,50.66
+1221,2023-11-18,Technology,Phones,East,First Class,350.6
+1222,2023-11-27,Furniture,Bookcases,Central,Standard Class,288.57
+1223,2023-05-26,Technology,Phones,South,First Class,142.47
+1224,2022-03-14,Furniture,Bookcases,East,First Class,341.87
+1225,2022-04-23,Technology,Accessories,Central,First Class,253.73
+1226,2022-06-16,Office Supplies,Storage,Central,Same Day,787.47
+1227,2022-10-22,Furniture,Chairs,West,First Class,214.82
+1228,2023-11-01,Office Supplies,Paper,Central,Second Class,106.76
+1229,2022-04-13,Technology,Phones,West,First Class,353.09
+1230,2021-09-09,Technology,Copiers,East,Second Class,194.14
+1231,2023-10-15,Furniture,Bookcases,East,Second Class,249.86
+1232,2022-04-08,Office Supplies,Binders,West,First Class,77.62
+1233,2022-09-06,Furniture,Chairs,Central,First Class,386.29
+1234,2021-08-04,Office Supplies,Paper,West,First Class,169.58
+1235,2023-05-25,Furniture,Tables,West,Standard Class,305.1
+1236,2022-12-19,Office Supplies,Storage,South,First Class,916.89
+1237,2021-05-30,Furniture,Bookcases,West,First Class,205.15
+1238,2023-12-20,Furniture,Tables,West,Standard Class,423.58
+1239,2021-12-12,Technology,Copiers,West,Standard Class,216.52
+1240,2022-02-19,Technology,Copiers,West,First Class,144.16
+1241,2021-09-12,Technology,Accessories,West,Standard Class,603.09
+1242,2021-04-17,Furniture,Chairs,Central,Same Day,34.76
+1243,2022-07-29,Office Supplies,Storage,Central,Same Day,500.26
+1244,2021-10-02,Office Supplies,Storage,South,Second Class,29.65
+1245,2022-09-07,Furniture,Bookcases,East,Second Class,465.75
+1246,2021-05-08,Office Supplies,Paper,West,Standard Class,252.77
+1247,2023-10-21,Technology,Accessories,West,Same Day,107.03
+1248,2022-12-22,Technology,Accessories,East,Standard Class,179.17
+1249,2023-03-26,Technology,Accessories,South,Standard Class,407.85
+1250,2021-05-28,Furniture,Tables,South,Second Class,861.28
+1251,2022-01-20,Office Supplies,Paper,East,Second Class,52.96
+1252,2022-05-05,Office Supplies,Storage,Central,Standard Class,113.22
+1253,2021-12-25,Office Supplies,Storage,Central,First Class,70.74
+1254,2022-06-30,Technology,Copiers,South,Same Day,215.14
+1255,2021-04-14,Office Supplies,Paper,South,First Class,474.32
+1256,2021-03-20,Office Supplies,Paper,West,Standard Class,61.13
+1257,2021-10-04,Office Supplies,Storage,Central,Second Class,247.67
+1258,2023-11-22,Technology,Accessories,East,Second Class,464.08
+1259,2021-09-30,Technology,Phones,Central,Second Class,177.05
+1260,2023-06-10,Furniture,Chairs,West,Same Day,290.54
+1261,2021-04-23,Furniture,Bookcases,South,Same Day,573.79
+1262,2021-11-06,Technology,Accessories,West,Standard Class,94.66
+1263,2023-10-25,Furniture,Tables,West,Second Class,39.53
+1264,2021-12-20,Furniture,Tables,South,First Class,317.15
+1265,2022-09-12,Technology,Copiers,East,Standard Class,323.55
+1266,2022-12-31,Furniture,Tables,Central,First Class,167.02
+1267,2022-02-23,Office Supplies,Binders,Central,Standard Class,140.65
+1268,2023-06-21,Office Supplies,Storage,East,Second Class,256.67
+1269,2022-02-26,Technology,Phones,Central,Standard Class,93.03
+1270,2022-07-18,Office Supplies,Paper,Central,First Class,93.17
+1271,2021-12-09,Office Supplies,Storage,West,First Class,405.99
+1272,2023-09-06,Technology,Accessories,East,Standard Class,87.0
+1273,2023-08-20,Technology,Phones,South,Standard Class,42.6
+1274,2023-11-10,Furniture,Bookcases,South,First Class,140.41
+1275,2023-04-09,Furniture,Chairs,South,First Class,170.42
+1276,2021-03-27,Office Supplies,Paper,East,Standard Class,350.58
+1277,2021-07-18,Furniture,Chairs,East,First Class,151.23
+1278,2022-10-27,Technology,Copiers,South,Same Day,638.98
+1279,2022-12-24,Technology,Copiers,Central,Standard Class,266.89
+1280,2022-06-11,Technology,Accessories,South,Same Day,123.87
+1281,2023-01-16,Office Supplies,Paper,Central,Standard Class,340.09
+1282,2022-02-17,Technology,Accessories,South,Second Class,631.49
+1283,2022-03-01,Furniture,Tables,West,Second Class,398.3
+1284,2021-09-24,Office Supplies,Paper,South,First Class,57.28
+1285,2022-07-26,Technology,Phones,East,Standard Class,182.77
+1286,2021-03-19,Office Supplies,Storage,West,Standard Class,301.65
+1287,2023-09-23,Office Supplies,Binders,Central,Second Class,386.86
+1288,2022-06-05,Furniture,Tables,Central,Standard Class,216.18
+1289,2021-02-23,Office Supplies,Binders,East,Second Class,192.9
+1290,2021-10-05,Technology,Copiers,South,Second Class,783.68
+1291,2023-03-27,Office Supplies,Storage,South,First Class,402.4
+1292,2022-07-08,Office Supplies,Paper,West,First Class,340.85
+1293,2023-07-03,Furniture,Bookcases,Central,Same Day,156.72
+1294,2021-09-10,Office Supplies,Storage,South,Same Day,91.74
+1295,2023-07-21,Office Supplies,Paper,Central,Standard Class,345.13
+1296,2022-08-15,Office Supplies,Binders,East,Second Class,433.21
+1297,2022-08-07,Technology,Copiers,South,Same Day,248.92
+1298,2022-09-17,Furniture,Tables,Central,Same Day,403.15
+1299,2021-07-26,Office Supplies,Paper,Central,First Class,410.33
+1300,2021-11-12,Furniture,Chairs,Central,First Class,453.11
+1301,2023-05-14,Furniture,Bookcases,West,First Class,56.21
+1302,2021-04-11,Technology,Copiers,East,First Class,187.04
+1303,2022-11-13,Office Supplies,Binders,South,Standard Class,360.03
+1304,2022-02-10,Technology,Copiers,West,First Class,259.76
+1305,2021-04-11,Office Supplies,Paper,Central,Same Day,411.21
+1306,2021-03-30,Office Supplies,Paper,West,Same Day,340.7
+1307,2022-11-26,Office Supplies,Storage,South,Standard Class,21.88
+1308,2021-01-18,Technology,Copiers,East,Same Day,528.33
+1309,2023-01-18,Furniture,Bookcases,South,Standard Class,168.27
+1310,2023-12-15,Furniture,Bookcases,South,Second Class,117.38
+1311,2021-07-22,Office Supplies,Storage,South,First Class,516.55
+1312,2021-03-30,Office Supplies,Binders,West,Second Class,389.53
+1313,2022-08-19,Furniture,Tables,Central,Same Day,565.79
+1314,2023-10-19,Furniture,Chairs,Central,Second Class,304.08
+1315,2022-09-03,Office Supplies,Storage,East,Second Class,185.09
+1316,2022-02-11,Office Supplies,Binders,South,Same Day,278.81
+1317,2022-10-11,Technology,Accessories,East,Second Class,98.95
+1318,2022-09-15,Office Supplies,Paper,South,First Class,68.89
+1319,2021-01-25,Technology,Accessories,Central,First Class,146.87
+1320,2023-12-25,Furniture,Bookcases,East,Second Class,680.15
+1321,2021-10-01,Office Supplies,Binders,East,Standard Class,159.93
+1322,2023-11-07,Furniture,Tables,South,Second Class,43.71
+1323,2022-09-29,Furniture,Bookcases,South,Standard Class,221.01
+1324,2023-10-04,Office Supplies,Paper,South,Standard Class,158.15
+1325,2022-09-02,Furniture,Chairs,Central,Same Day,534.82
+1326,2022-04-28,Technology,Copiers,South,Standard Class,648.49
+1327,2021-08-03,Technology,Accessories,South,First Class,178.18
+1328,2022-04-08,Office Supplies,Binders,West,First Class,303.87
+1329,2022-09-02,Office Supplies,Paper,East,Standard Class,322.66
+1330,2022-12-06,Technology,Accessories,East,Same Day,240.7
+1331,2022-05-15,Office Supplies,Paper,South,Same Day,207.98
+1332,2021-05-07,Office Supplies,Storage,Central,Same Day,110.34
+1333,2023-01-05,Furniture,Tables,Central,Standard Class,35.83
+1334,2021-11-29,Furniture,Chairs,South,Standard Class,109.74
+1335,2023-10-14,Furniture,Bookcases,East,Second Class,234.19
+1336,2021-10-04,Office Supplies,Storage,Central,Standard Class,61.24
+1337,2023-01-14,Office Supplies,Storage,East,Same Day,292.32
+1338,2021-08-10,Office Supplies,Storage,Central,Standard Class,263.67
+1339,2021-09-01,Furniture,Bookcases,South,First Class,158.38
+1340,2022-11-10,Office Supplies,Paper,East,Second Class,201.0
+1341,2023-10-20,Office Supplies,Binders,Central,First Class,73.34
+1342,2021-01-17,Technology,Copiers,West,Second Class,447.56
+1343,2021-11-15,Office Supplies,Paper,Central,Standard Class,442.34
+1344,2022-07-19,Office Supplies,Paper,East,First Class,87.05
+1345,2021-06-06,Furniture,Tables,West,Second Class,89.54
+1346,2023-10-01,Furniture,Tables,West,Same Day,111.09
+1347,2023-03-24,Office Supplies,Binders,East,Standard Class,372.72
+1348,2021-04-12,Furniture,Chairs,South,Same Day,321.92
+1349,2023-02-12,Office Supplies,Storage,Central,Second Class,512.6
+1350,2022-02-10,Technology,Phones,East,Same Day,551.77
+1351,2023-10-07,Office Supplies,Storage,Central,Second Class,55.27
+1352,2021-01-19,Office Supplies,Paper,East,Standard Class,363.39
+1353,2023-11-04,Office Supplies,Storage,East,First Class,537.06
+1354,2021-01-16,Office Supplies,Paper,West,Same Day,190.73
+1355,2021-11-13,Furniture,Chairs,West,Standard Class,245.47
+1356,2021-07-14,Office Supplies,Storage,Central,Second Class,217.73
+1357,2022-04-12,Technology,Phones,South,First Class,225.39
+1358,2021-04-01,Furniture,Chairs,South,First Class,446.51
+1359,2023-09-27,Furniture,Tables,South,Same Day,764.9
+1360,2022-01-05,Technology,Phones,West,First Class,624.28
+1361,2022-05-08,Technology,Accessories,Central,Same Day,164.7
+1362,2022-05-07,Furniture,Bookcases,West,Second Class,304.57
+1363,2023-04-19,Office Supplies,Binders,West,Second Class,126.87
+1364,2023-01-08,Technology,Copiers,Central,Standard Class,138.7
+1365,2021-11-18,Furniture,Tables,Central,Second Class,237.22
+1366,2022-01-28,Technology,Accessories,West,Same Day,135.43
+1367,2021-02-05,Office Supplies,Paper,South,Second Class,153.66
+1368,2021-10-28,Technology,Accessories,East,Standard Class,299.29
+1369,2021-08-03,Furniture,Bookcases,West,Same Day,359.78
+1370,2021-10-03,Technology,Copiers,East,First Class,352.99
+1371,2022-03-10,Technology,Phones,West,First Class,355.5
+1372,2023-05-01,Technology,Phones,Central,Second Class,78.76
+1373,2023-09-19,Furniture,Tables,Central,Second Class,129.41
+1374,2022-02-12,Office Supplies,Paper,Central,Second Class,257.42
+1375,2022-05-16,Technology,Phones,East,Second Class,520.66
+1376,2022-05-08,Office Supplies,Binders,South,Standard Class,1044.0
+1377,2022-02-07,Office Supplies,Storage,West,Second Class,313.57
+1378,2023-09-16,Office Supplies,Binders,Central,Second Class,417.38
+1379,2022-01-13,Technology,Phones,West,Second Class,70.05
+1380,2022-03-06,Office Supplies,Storage,East,Same Day,409.62
+1381,2023-11-21,Office Supplies,Storage,South,Standard Class,868.4
+1382,2021-11-29,Office Supplies,Binders,South,Standard Class,128.99
+1383,2023-07-14,Office Supplies,Paper,West,Second Class,157.97
+1384,2023-03-15,Furniture,Chairs,Central,First Class,456.14
+1385,2021-11-29,Technology,Phones,Central,Second Class,254.95
+1386,2021-01-14,Furniture,Chairs,East,Same Day,32.07
+1387,2023-05-24,Office Supplies,Binders,Central,Standard Class,166.15
+1388,2021-04-02,Furniture,Tables,West,First Class,646.71
+1389,2022-10-29,Office Supplies,Storage,West,First Class,199.78
+1390,2021-04-03,Furniture,Bookcases,East,Standard Class,199.64
+1391,2021-10-22,Furniture,Chairs,West,Same Day,436.41
+1392,2022-04-22,Technology,Copiers,East,Same Day,321.8
+1393,2023-08-31,Technology,Phones,West,First Class,191.17
+1394,2022-11-03,Technology,Phones,Central,Standard Class,149.2
+1395,2023-12-26,Furniture,Bookcases,Central,Same Day,1366.32
+1396,2021-05-09,Furniture,Bookcases,South,Same Day,576.79
+1397,2022-11-01,Office Supplies,Storage,West,First Class,355.4
+1398,2022-10-18,Office Supplies,Paper,Central,First Class,371.66
+1399,2022-04-09,Office Supplies,Binders,East,Second Class,226.48
+1400,2021-12-10,Furniture,Chairs,West,Same Day,319.02
+1401,2023-08-31,Office Supplies,Paper,East,Standard Class,208.09
+1402,2023-09-08,Furniture,Bookcases,South,First Class,118.71
+1403,2021-03-28,Furniture,Tables,South,First Class,328.13
+1404,2022-06-24,Office Supplies,Storage,East,Second Class,194.07
+1405,2021-10-11,Office Supplies,Storage,East,First Class,340.49
+1406,2021-02-02,Office Supplies,Binders,South,First Class,386.89
+1407,2022-07-27,Office Supplies,Binders,Central,Second Class,353.39
+1408,2022-06-28,Furniture,Tables,South,First Class,110.1
+1409,2023-07-25,Office Supplies,Paper,South,Standard Class,177.57
+1410,2022-05-13,Furniture,Tables,Central,Same Day,197.1
+1411,2022-02-26,Furniture,Tables,East,Standard Class,490.58
+1412,2022-12-14,Furniture,Tables,Central,Standard Class,473.37
+1413,2021-10-11,Technology,Accessories,Central,Standard Class,136.23
+1414,2022-06-11,Furniture,Tables,South,Second Class,76.91
+1415,2021-12-25,Furniture,Bookcases,Central,Same Day,1075.88
+1416,2021-07-20,Furniture,Chairs,South,Standard Class,343.56
+1417,2022-02-03,Technology,Phones,Central,Standard Class,66.87
+1418,2021-11-17,Technology,Phones,East,First Class,155.81
+1419,2022-11-18,Technology,Copiers,West,Second Class,504.54
+1420,2021-04-09,Furniture,Bookcases,East,Standard Class,911.7
+1421,2023-02-05,Furniture,Tables,West,Same Day,815.52
+1422,2023-01-29,Office Supplies,Storage,East,Same Day,333.29
+1423,2023-12-28,Furniture,Bookcases,South,Second Class,250.65
+1424,2021-10-24,Office Supplies,Binders,West,First Class,100.57
+1425,2021-07-12,Furniture,Chairs,South,Same Day,266.96
+1426,2021-04-22,Office Supplies,Storage,South,Same Day,113.61
+1427,2023-06-25,Furniture,Bookcases,South,Same Day,179.01
+1428,2023-01-26,Office Supplies,Storage,South,Second Class,455.81
+1429,2023-11-18,Technology,Phones,West,First Class,207.26
+1430,2023-12-20,Technology,Accessories,South,Second Class,196.34
+1431,2022-05-28,Furniture,Tables,West,Same Day,240.4
+1432,2022-12-23,Furniture,Chairs,Central,Same Day,1178.41
+1433,2021-04-20,Furniture,Bookcases,East,Standard Class,90.58
+1434,2021-03-17,Technology,Copiers,West,Same Day,308.38
+1435,2022-11-07,Office Supplies,Storage,Central,Same Day,768.6
+1436,2021-03-03,Furniture,Tables,East,First Class,239.85
+1437,2023-04-04,Furniture,Chairs,Central,Same Day,569.68
+1438,2021-05-26,Office Supplies,Paper,South,Second Class,71.67
+1439,2021-05-06,Technology,Copiers,South,Same Day,212.72
+1440,2023-05-08,Technology,Phones,South,First Class,124.87
+1441,2022-07-30,Technology,Phones,West,Same Day,237.9
+1442,2022-07-25,Office Supplies,Binders,South,Second Class,241.8
+1443,2023-02-17,Technology,Accessories,East,Same Day,261.41
+1444,2022-07-31,Technology,Accessories,South,Second Class,452.92
+1445,2023-08-27,Office Supplies,Binders,South,Second Class,18.5
+1446,2022-10-11,Technology,Accessories,West,Standard Class,149.96
+1447,2022-10-12,Furniture,Tables,Central,Standard Class,293.19
+1448,2022-06-22,Technology,Phones,Central,Second Class,34.24
+1449,2022-12-08,Technology,Copiers,Central,Same Day,390.23
+1450,2023-10-17,Furniture,Chairs,West,Standard Class,147.54
+1451,2023-11-07,Furniture,Bookcases,South,Same Day,215.94
+1452,2022-02-27,Technology,Accessories,South,Standard Class,467.06
+1453,2021-05-15,Office Supplies,Storage,East,Second Class,587.06
+1454,2023-06-26,Office Supplies,Paper,West,First Class,398.58
+1455,2021-02-13,Furniture,Bookcases,East,First Class,88.07
+1456,2022-07-16,Technology,Phones,East,First Class,384.81
+1457,2023-11-20,Office Supplies,Storage,Central,Second Class,403.04
+1458,2022-08-30,Technology,Copiers,West,Standard Class,349.42
+1459,2022-11-30,Technology,Accessories,West,Standard Class,651.17
+1460,2023-11-09,Technology,Accessories,Central,Second Class,266.59
+1461,2023-07-16,Technology,Phones,South,Standard Class,634.68
+1462,2023-06-03,Technology,Phones,East,Standard Class,632.13
+1463,2022-06-21,Furniture,Chairs,West,Second Class,410.96
+1464,2023-05-10,Furniture,Tables,East,Same Day,311.94
+1465,2022-04-29,Furniture,Tables,West,Standard Class,350.85
+1466,2021-05-28,Technology,Copiers,West,Standard Class,744.83
+1467,2022-01-25,Furniture,Chairs,East,Standard Class,520.21
+1468,2023-09-26,Office Supplies,Paper,South,Second Class,98.62
+1469,2022-02-24,Technology,Phones,West,Same Day,335.25
+1470,2021-01-03,Furniture,Bookcases,West,Same Day,119.16
+1471,2021-03-29,Furniture,Bookcases,Central,Standard Class,143.79
+1472,2021-07-18,Technology,Phones,Central,First Class,184.9
+1473,2022-10-11,Furniture,Bookcases,West,Second Class,64.64
+1474,2022-09-11,Office Supplies,Paper,Central,First Class,112.2
+1475,2022-08-09,Furniture,Bookcases,Central,Standard Class,674.71
+1476,2022-02-09,Technology,Phones,Central,Second Class,143.02
+1477,2023-12-09,Office Supplies,Storage,West,First Class,454.67
+1478,2021-09-03,Furniture,Chairs,West,First Class,284.77
+1479,2022-12-20,Technology,Phones,East,Second Class,373.17
+1480,2023-07-17,Furniture,Chairs,South,Same Day,384.4
+1481,2023-07-07,Furniture,Bookcases,East,First Class,107.65
+1482,2021-07-09,Furniture,Bookcases,West,First Class,452.84
+1483,2022-10-11,Office Supplies,Paper,South,Standard Class,79.22
+1484,2022-04-27,Furniture,Bookcases,Central,First Class,137.89
+1485,2023-06-30,Furniture,Bookcases,South,First Class,380.5
+1486,2023-07-05,Furniture,Tables,West,First Class,101.14
+1487,2021-11-07,Office Supplies,Storage,East,Standard Class,30.0
+1488,2023-04-08,Technology,Accessories,West,Standard Class,324.01
+1489,2022-05-11,Office Supplies,Storage,South,Second Class,52.92
+1490,2021-11-06,Furniture,Bookcases,East,Second Class,405.93
+1491,2022-08-05,Office Supplies,Paper,South,Second Class,195.95
+1492,2021-04-19,Technology,Accessories,East,Same Day,320.66
+1493,2023-01-15,Technology,Phones,West,Second Class,316.36
+1494,2023-01-02,Office Supplies,Binders,South,First Class,427.05
+1495,2021-12-20,Office Supplies,Binders,West,First Class,388.35
+1496,2021-02-08,Technology,Copiers,West,First Class,100.28
+1497,2021-04-01,Technology,Phones,Central,Standard Class,205.65
+1498,2023-10-04,Technology,Phones,Central,Second Class,320.38
+1499,2023-10-21,Technology,Accessories,South,Same Day,642.24
+1500,2023-01-28,Furniture,Tables,West,First Class,390.85
+1501,2022-10-06,Furniture,Bookcases,West,First Class,605.75
+1502,2023-09-07,Furniture,Bookcases,Central,Second Class,332.64
+1503,2023-02-17,Office Supplies,Storage,East,First Class,526.37
+1504,2023-03-20,Furniture,Bookcases,East,Second Class,301.45
+1505,2023-05-28,Furniture,Chairs,South,Second Class,511.9
+1506,2023-03-17,Furniture,Chairs,South,First Class,187.94
+1507,2022-10-13,Technology,Accessories,West,Second Class,691.41
+1508,2021-02-15,Technology,Phones,South,Second Class,359.83
+1509,2023-05-10,Office Supplies,Binders,South,Same Day,65.14
+1510,2023-07-11,Office Supplies,Binders,South,Second Class,328.17
+1511,2023-02-21,Technology,Copiers,Central,Same Day,391.75
+1512,2022-09-12,Furniture,Tables,East,First Class,463.59
+1513,2023-07-08,Technology,Phones,West,Standard Class,851.47
+1514,2021-11-26,Office Supplies,Paper,East,Same Day,164.29
+1515,2021-01-21,Office Supplies,Storage,South,First Class,855.17
+1516,2021-05-25,Office Supplies,Storage,East,First Class,250.72
+1517,2021-11-21,Furniture,Tables,East,Same Day,132.02
+1518,2022-12-10,Furniture,Chairs,Central,Same Day,167.31
+1519,2023-08-15,Technology,Accessories,West,Same Day,375.61
+1520,2022-10-09,Furniture,Chairs,West,Same Day,115.4
+1521,2022-10-06,Office Supplies,Storage,West,First Class,190.55
+1522,2023-04-30,Technology,Copiers,East,First Class,322.33
+1523,2023-09-28,Furniture,Bookcases,Central,First Class,687.89
+1524,2021-05-27,Furniture,Chairs,Central,Same Day,454.52
+1525,2022-06-19,Office Supplies,Paper,West,Standard Class,258.52
+1526,2021-08-25,Technology,Copiers,West,First Class,374.41
+1527,2023-09-01,Office Supplies,Paper,East,Second Class,299.7
+1528,2023-06-11,Technology,Phones,Central,Same Day,86.79
+1529,2021-07-16,Furniture,Tables,West,First Class,767.31
+1530,2023-08-30,Office Supplies,Storage,Central,First Class,695.08
+1531,2023-07-23,Furniture,Tables,East,Standard Class,235.95
+1532,2022-01-28,Technology,Accessories,West,Second Class,172.34
+1533,2021-01-16,Furniture,Tables,Central,Second Class,88.75
+1534,2022-04-25,Office Supplies,Binders,West,Same Day,391.02
+1535,2024-01-01,Furniture,Tables,West,First Class,392.8
+1536,2021-12-03,Technology,Accessories,East,Same Day,124.35
+1537,2023-10-16,Office Supplies,Storage,West,First Class,302.3
+1538,2021-08-05,Furniture,Bookcases,West,Same Day,444.88
+1539,2021-09-05,Technology,Phones,East,Same Day,162.74
+1540,2023-06-13,Office Supplies,Paper,East,First Class,213.85
+1541,2023-02-09,Furniture,Chairs,Central,Same Day,212.22
+1542,2021-04-04,Office Supplies,Binders,Central,Same Day,131.5
+1543,2021-11-14,Office Supplies,Paper,Central,Same Day,217.31
+1544,2022-02-21,Office Supplies,Binders,West,Same Day,54.04
+1545,2021-08-01,Technology,Phones,West,Second Class,203.6
+1546,2021-03-07,Office Supplies,Storage,West,First Class,206.09
+1547,2022-10-14,Furniture,Bookcases,West,First Class,238.23
+1548,2021-09-19,Furniture,Bookcases,East,Second Class,354.81
+1549,2023-08-06,Office Supplies,Storage,Central,First Class,81.89
+1550,2021-01-17,Office Supplies,Paper,West,Standard Class,97.63
+1551,2022-05-17,Technology,Phones,East,Standard Class,128.57
+1552,2021-04-29,Office Supplies,Paper,West,Second Class,73.63
+1553,2023-07-24,Office Supplies,Storage,West,First Class,383.84
+1554,2023-11-03,Office Supplies,Binders,East,Same Day,156.85
+1555,2022-08-27,Office Supplies,Binders,West,Standard Class,243.96
+1556,2021-11-23,Furniture,Chairs,Central,Second Class,119.07
+1557,2021-06-23,Technology,Phones,East,Same Day,186.62
+1558,2023-09-16,Furniture,Chairs,East,Standard Class,312.96
+1559,2022-06-12,Furniture,Bookcases,West,Second Class,324.04
+1560,2022-05-21,Furniture,Bookcases,Central,Standard Class,101.62
+1561,2023-08-05,Furniture,Tables,East,Standard Class,234.71
+1562,2022-07-28,Technology,Phones,East,Second Class,120.89
+1563,2023-06-30,Technology,Phones,South,Standard Class,228.06
+1564,2023-12-28,Office Supplies,Binders,South,Standard Class,146.02
+1565,2023-04-22,Technology,Phones,Central,Second Class,799.27
+1566,2023-07-19,Office Supplies,Binders,East,First Class,443.12
+1567,2023-08-12,Office Supplies,Storage,Central,First Class,334.28
+1568,2022-05-10,Technology,Phones,Central,First Class,199.79
+1569,2021-06-23,Furniture,Chairs,East,First Class,451.98
+1570,2023-08-19,Furniture,Tables,South,Same Day,239.99
+1571,2022-02-04,Furniture,Tables,East,Standard Class,746.49
+1572,2023-03-03,Furniture,Chairs,Central,Same Day,483.22
+1573,2022-05-04,Furniture,Chairs,West,Standard Class,185.53
+1574,2022-12-31,Technology,Copiers,Central,Second Class,691.21
+1575,2022-10-10,Technology,Copiers,West,Second Class,200.61
+1576,2021-11-18,Technology,Accessories,Central,First Class,829.73
+1577,2021-04-09,Furniture,Tables,Central,Standard Class,715.55
+1578,2023-11-22,Furniture,Chairs,Central,Standard Class,311.73
+1579,2022-12-13,Furniture,Tables,South,First Class,56.3
+1580,2023-02-13,Office Supplies,Storage,Central,Same Day,294.37
+1581,2021-08-05,Office Supplies,Paper,South,Standard Class,92.03
+1582,2022-10-31,Technology,Accessories,West,Standard Class,149.79
+1583,2021-01-11,Furniture,Bookcases,West,Second Class,159.46
+1584,2023-03-31,Furniture,Tables,Central,First Class,91.28
+1585,2022-07-04,Furniture,Tables,East,Second Class,295.19
+1586,2023-08-29,Technology,Copiers,Central,First Class,135.15
+1587,2021-09-14,Technology,Phones,Central,Standard Class,207.96
+1588,2023-01-03,Technology,Phones,South,Standard Class,160.6
+1589,2023-02-04,Furniture,Chairs,East,Same Day,355.9
+1590,2022-06-20,Furniture,Chairs,South,First Class,337.77
+1591,2023-10-21,Technology,Accessories,South,Same Day,195.0
+1592,2022-01-18,Furniture,Tables,East,Same Day,368.53
+1593,2023-04-27,Furniture,Chairs,South,Same Day,571.5
+1594,2022-03-21,Office Supplies,Binders,Central,Standard Class,24.51
+1595,2021-01-24,Technology,Phones,Central,Same Day,153.02
+1596,2021-02-10,Technology,Accessories,West,First Class,108.96
+1597,2021-03-11,Furniture,Tables,Central,Same Day,141.7
+1598,2023-07-09,Office Supplies,Binders,Central,First Class,18.8
+1599,2022-11-03,Technology,Copiers,West,Standard Class,23.15
+1600,2022-12-26,Technology,Copiers,South,Standard Class,165.18
+1601,2021-05-01,Furniture,Chairs,South,First Class,161.31
+1602,2022-10-06,Office Supplies,Paper,South,First Class,626.74
+1603,2022-11-18,Furniture,Bookcases,East,Standard Class,278.36
+1604,2022-07-13,Furniture,Chairs,Central,Same Day,361.91
+1605,2023-10-27,Technology,Accessories,East,Second Class,2041.53
+1606,2023-07-04,Office Supplies,Storage,East,Standard Class,754.79
+1607,2023-05-06,Office Supplies,Paper,East,Second Class,241.29
+1608,2021-04-13,Office Supplies,Paper,Central,Same Day,176.52
+1609,2022-03-18,Furniture,Chairs,West,First Class,155.09
+1610,2021-02-09,Technology,Copiers,South,Second Class,319.39
+1611,2023-07-04,Furniture,Bookcases,Central,Same Day,177.75
+1612,2022-11-10,Technology,Accessories,West,First Class,88.81
+1613,2021-03-22,Office Supplies,Storage,Central,Standard Class,160.0
+1614,2022-08-08,Office Supplies,Binders,East,Second Class,326.04
+1615,2022-09-21,Furniture,Chairs,South,Standard Class,407.63
+1616,2021-03-21,Technology,Copiers,East,Same Day,806.03
+1617,2022-04-05,Technology,Copiers,Central,Standard Class,269.48
+1618,2023-04-22,Office Supplies,Binders,West,First Class,594.27
+1619,2023-04-09,Furniture,Bookcases,Central,Second Class,214.16
+1620,2021-02-01,Furniture,Bookcases,South,Same Day,237.77
+1621,2021-02-16,Office Supplies,Binders,West,Same Day,228.16
+1622,2022-04-01,Technology,Phones,South,Standard Class,293.93
+1623,2022-03-23,Office Supplies,Storage,West,Second Class,458.91
+1624,2021-03-29,Furniture,Chairs,South,Second Class,171.75
+1625,2021-05-18,Furniture,Chairs,Central,First Class,114.31
+1626,2021-09-25,Office Supplies,Binders,Central,Same Day,484.37
+1627,2023-11-03,Technology,Accessories,West,Second Class,460.91
+1628,2021-08-25,Technology,Copiers,Central,Second Class,657.36
+1629,2022-11-10,Technology,Phones,East,Same Day,150.33
+1630,2021-07-12,Technology,Copiers,South,Standard Class,208.13
+1631,2021-11-23,Technology,Copiers,Central,Same Day,496.9
+1632,2022-08-02,Technology,Copiers,South,Second Class,170.11
+1633,2022-05-14,Technology,Phones,West,First Class,395.67
+1634,2021-12-01,Technology,Copiers,West,Same Day,214.89
+1635,2023-07-18,Furniture,Chairs,Central,Standard Class,318.15
+1636,2023-10-11,Technology,Accessories,Central,Second Class,87.1
+1637,2023-09-07,Technology,Accessories,South,Second Class,266.87
+1638,2021-09-14,Furniture,Bookcases,Central,First Class,563.81
+1639,2022-11-07,Furniture,Chairs,East,Same Day,432.78
+1640,2021-03-08,Office Supplies,Binders,Central,Second Class,107.59
+1641,2023-03-17,Technology,Phones,West,Standard Class,764.0
+1642,2021-07-01,Furniture,Tables,Central,Second Class,540.7
+1643,2022-01-26,Furniture,Bookcases,West,Second Class,91.13
+1644,2023-05-23,Office Supplies,Storage,East,First Class,160.92
+1645,2022-01-19,Office Supplies,Storage,Central,Second Class,96.14
+1646,2023-03-15,Technology,Copiers,Central,First Class,324.66
+1647,2023-01-08,Furniture,Chairs,East,Standard Class,155.02
+1648,2022-07-06,Furniture,Bookcases,South,Standard Class,32.44
+1649,2022-08-27,Office Supplies,Paper,West,Second Class,236.94
+1650,2021-10-12,Technology,Accessories,East,First Class,471.27
+1651,2022-12-14,Furniture,Bookcases,West,Same Day,271.04
+1652,2022-05-22,Office Supplies,Paper,West,First Class,370.7
+1653,2023-06-19,Office Supplies,Binders,East,Second Class,290.72
+1654,2021-12-18,Office Supplies,Paper,South,Same Day,420.36
+1655,2023-04-08,Office Supplies,Storage,South,Standard Class,310.18
+1656,2023-01-04,Office Supplies,Paper,East,Second Class,226.98
+1657,2021-09-08,Office Supplies,Binders,West,Standard Class,268.52
+1658,2023-02-20,Furniture,Bookcases,South,Second Class,673.63
+1659,2022-09-16,Furniture,Bookcases,Central,Second Class,385.67
+1660,2023-12-01,Furniture,Chairs,West,Second Class,107.26
+1661,2022-07-11,Technology,Copiers,South,Second Class,265.31
+1662,2022-08-30,Office Supplies,Paper,Central,Second Class,320.46
+1663,2023-06-08,Technology,Accessories,West,Same Day,221.12
+1664,2022-06-13,Technology,Accessories,East,Standard Class,32.66
+1665,2021-09-06,Furniture,Bookcases,West,Second Class,117.66
+1666,2022-09-12,Office Supplies,Storage,South,First Class,178.15
+1667,2023-08-28,Technology,Copiers,West,Second Class,822.66
+1668,2021-03-03,Technology,Phones,West,Same Day,356.43
+1669,2023-01-14,Office Supplies,Binders,East,Standard Class,54.13
+1670,2022-09-20,Furniture,Tables,South,Standard Class,232.3
+1671,2022-02-18,Technology,Accessories,Central,Same Day,604.65
+1672,2022-09-03,Office Supplies,Storage,East,Standard Class,153.16
+1673,2023-09-15,Furniture,Bookcases,Central,Standard Class,509.81
+1674,2023-07-26,Technology,Copiers,Central,Standard Class,56.11
+1675,2022-09-12,Furniture,Chairs,West,First Class,4.85
+1676,2023-04-09,Furniture,Bookcases,East,Second Class,561.9
+1677,2022-08-18,Office Supplies,Storage,Central,First Class,170.61
+1678,2021-08-05,Office Supplies,Storage,West,Standard Class,182.06
+1679,2023-05-05,Furniture,Chairs,Central,First Class,288.72
+1680,2022-08-29,Office Supplies,Paper,Central,Second Class,347.47
+1681,2023-09-18,Technology,Phones,West,First Class,11.42
+1682,2023-05-15,Office Supplies,Paper,South,Second Class,142.97
+1683,2022-10-27,Furniture,Bookcases,Central,Second Class,261.6
+1684,2023-04-03,Office Supplies,Paper,Central,Same Day,346.91
+1685,2022-10-19,Technology,Accessories,Central,Second Class,106.07
+1686,2023-11-11,Office Supplies,Binders,South,Same Day,212.09
+1687,2022-10-29,Office Supplies,Storage,Central,Standard Class,152.75
+1688,2023-10-08,Office Supplies,Binders,West,Same Day,295.98
+1689,2023-03-29,Furniture,Chairs,Central,Standard Class,548.33
+1690,2023-05-03,Furniture,Chairs,East,Same Day,190.37
+1691,2021-07-31,Furniture,Bookcases,South,Standard Class,67.35
+1692,2022-06-16,Furniture,Chairs,West,Standard Class,136.25
+1693,2023-11-11,Furniture,Chairs,Central,Second Class,758.94
+1694,2022-12-17,Office Supplies,Binders,South,Second Class,118.08
+1695,2022-05-31,Furniture,Tables,West,Same Day,81.99
+1696,2021-11-17,Office Supplies,Storage,West,Same Day,180.94
+1697,2021-10-25,Office Supplies,Storage,East,Second Class,232.35
+1698,2022-12-25,Technology,Phones,Central,Standard Class,160.87
+1699,2021-05-04,Office Supplies,Binders,West,Standard Class,56.46
+1700,2021-09-03,Furniture,Tables,Central,Same Day,317.59
+1701,2023-05-09,Furniture,Tables,South,Same Day,296.21
+1702,2021-06-22,Technology,Copiers,West,First Class,409.57
+1703,2022-10-28,Furniture,Bookcases,East,First Class,291.26
+1704,2022-07-14,Office Supplies,Storage,West,Standard Class,717.86
+1705,2021-01-25,Office Supplies,Storage,Central,Standard Class,432.16
+1706,2023-07-25,Office Supplies,Storage,East,Second Class,373.12
+1707,2023-05-17,Technology,Phones,Central,Same Day,561.99
+1708,2021-07-21,Office Supplies,Paper,West,Standard Class,278.18
+1709,2023-06-28,Technology,Copiers,South,Same Day,215.71
+1710,2023-07-07,Furniture,Chairs,South,Standard Class,314.96
+1711,2022-03-23,Furniture,Bookcases,West,Standard Class,30.55
+1712,2023-10-06,Technology,Copiers,West,Standard Class,278.85
+1713,2023-06-12,Office Supplies,Binders,West,Standard Class,232.15
+1714,2021-09-27,Furniture,Chairs,East,Standard Class,340.38
+1715,2023-02-14,Technology,Phones,East,First Class,510.85
+1716,2022-10-25,Technology,Phones,East,Second Class,380.88
+1717,2022-03-12,Office Supplies,Paper,West,First Class,136.58
+1718,2022-04-28,Office Supplies,Paper,South,Standard Class,454.97
+1719,2021-09-01,Office Supplies,Storage,West,Standard Class,724.77
+1720,2022-06-04,Office Supplies,Paper,West,First Class,519.91
+1721,2021-11-29,Furniture,Chairs,West,Standard Class,73.89
+1722,2022-09-30,Furniture,Tables,Central,First Class,378.03
+1723,2023-05-07,Furniture,Chairs,West,Same Day,85.76
+1724,2023-09-19,Technology,Phones,West,First Class,199.08
+1725,2023-04-09,Technology,Phones,West,Same Day,333.14
+1726,2021-07-24,Office Supplies,Storage,West,Same Day,301.93
+1727,2022-02-13,Technology,Phones,East,Second Class,513.03
+1728,2022-07-23,Office Supplies,Binders,West,Standard Class,727.11
+1729,2022-04-28,Furniture,Chairs,East,Same Day,357.7
+1730,2022-08-24,Office Supplies,Storage,Central,First Class,186.88
+1731,2022-03-02,Furniture,Tables,Central,Standard Class,32.58
+1732,2021-06-07,Furniture,Tables,South,Standard Class,602.04
+1733,2023-01-11,Office Supplies,Storage,West,Second Class,233.11
+1734,2022-05-22,Furniture,Bookcases,Central,Second Class,242.79
+1735,2023-06-16,Furniture,Tables,West,First Class,258.09
+1736,2022-12-06,Furniture,Chairs,East,Second Class,345.97
+1737,2021-09-21,Furniture,Bookcases,South,Same Day,353.35
+1738,2022-03-25,Furniture,Bookcases,West,Same Day,201.67
+1739,2023-07-26,Technology,Copiers,East,Same Day,231.3
+1740,2023-08-19,Office Supplies,Paper,South,Second Class,150.49
+1741,2023-12-26,Technology,Phones,Central,Same Day,136.48
+1742,2023-12-23,Office Supplies,Paper,West,Same Day,135.89
+1743,2021-10-20,Furniture,Tables,Central,Same Day,229.18
+1744,2023-08-01,Technology,Phones,South,Same Day,113.46
+1745,2021-09-30,Technology,Copiers,West,Same Day,3.88
+1746,2023-09-22,Furniture,Tables,East,Standard Class,184.21
+1747,2022-02-19,Office Supplies,Paper,East,First Class,78.78
+1748,2022-08-14,Technology,Phones,Central,Same Day,271.79
+1749,2023-06-05,Office Supplies,Paper,East,First Class,149.98
+1750,2023-12-11,Office Supplies,Storage,West,Same Day,349.09
+1751,2022-10-08,Furniture,Tables,South,First Class,86.47
+1752,2022-04-18,Office Supplies,Binders,South,Same Day,41.07
+1753,2021-09-23,Office Supplies,Storage,Central,First Class,231.75
+1754,2022-04-23,Office Supplies,Storage,East,First Class,177.79
+1755,2021-04-27,Technology,Copiers,South,Standard Class,71.85
+1756,2021-03-10,Technology,Accessories,East,Second Class,432.4
+1757,2021-08-02,Office Supplies,Paper,South,Standard Class,101.81
+1758,2021-05-14,Office Supplies,Paper,East,Same Day,130.77
+1759,2023-01-04,Office Supplies,Binders,West,Second Class,490.42
+1760,2021-10-12,Furniture,Tables,West,First Class,363.73
+1761,2021-03-16,Furniture,Chairs,South,Same Day,91.39
+1762,2021-06-24,Office Supplies,Paper,East,Second Class,191.26
+1763,2021-07-16,Furniture,Tables,South,First Class,82.48
+1764,2022-02-06,Office Supplies,Storage,South,First Class,466.07
+1765,2022-03-21,Office Supplies,Paper,East,Second Class,465.85
+1766,2021-01-15,Technology,Copiers,West,Standard Class,798.04
+1767,2021-11-20,Technology,Copiers,South,Standard Class,1003.25
+1768,2021-02-24,Technology,Copiers,East,Standard Class,148.45
+1769,2023-09-11,Furniture,Tables,East,First Class,414.97
+1770,2021-09-29,Technology,Accessories,Central,Second Class,33.9
+1771,2023-06-28,Furniture,Tables,West,Same Day,287.6
+1772,2021-05-13,Furniture,Bookcases,Central,Same Day,341.77
+1773,2021-07-29,Technology,Copiers,East,Second Class,107.21
+1774,2023-01-23,Technology,Phones,South,First Class,140.48
+1775,2022-04-15,Furniture,Tables,Central,First Class,468.04
+1776,2023-03-01,Office Supplies,Binders,West,Second Class,347.95
+1777,2021-01-13,Furniture,Chairs,West,Standard Class,731.78
+1778,2022-12-16,Furniture,Chairs,West,First Class,676.2
+1779,2023-07-30,Furniture,Chairs,Central,Standard Class,46.85
+1780,2022-03-11,Furniture,Chairs,South,First Class,161.57
+1781,2022-04-10,Furniture,Chairs,West,First Class,96.8
+1782,2023-12-26,Technology,Phones,South,Standard Class,427.25
+1783,2021-12-06,Technology,Accessories,Central,Same Day,309.07
+1784,2022-03-08,Furniture,Chairs,East,First Class,103.35
+1785,2021-09-02,Technology,Phones,West,Same Day,119.25
+1786,2023-09-29,Office Supplies,Paper,Central,Standard Class,578.46
+1787,2022-07-24,Technology,Accessories,South,First Class,177.49
+1788,2021-12-24,Office Supplies,Storage,East,Same Day,27.12
+1789,2021-10-14,Technology,Phones,East,Standard Class,94.68
+1790,2022-10-02,Technology,Accessories,South,First Class,832.87
+1791,2023-08-28,Office Supplies,Binders,Central,Standard Class,500.24
+1792,2021-07-20,Technology,Copiers,South,Second Class,77.22
+1793,2022-09-09,Office Supplies,Storage,West,Second Class,287.5
+1794,2021-07-30,Technology,Accessories,South,Same Day,479.16
+1795,2023-12-15,Technology,Accessories,East,Standard Class,46.1
+1796,2023-12-03,Furniture,Bookcases,Central,First Class,516.17
+1797,2023-10-17,Office Supplies,Storage,South,Standard Class,345.57
+1798,2021-03-09,Office Supplies,Binders,East,Same Day,133.2
+1799,2021-10-03,Office Supplies,Storage,South,Second Class,385.96
+1800,2023-12-02,Office Supplies,Paper,East,Second Class,312.3
+1801,2021-02-26,Furniture,Chairs,Central,First Class,328.16
+1802,2021-11-03,Furniture,Tables,South,First Class,279.79
+1803,2023-05-23,Office Supplies,Paper,South,Second Class,115.25
+1804,2021-01-21,Furniture,Tables,South,Second Class,135.89
+1805,2021-05-24,Technology,Copiers,Central,Second Class,206.67
+1806,2022-11-22,Technology,Phones,South,Standard Class,259.01
+1807,2022-11-27,Technology,Copiers,West,Second Class,402.26
+1808,2021-02-18,Furniture,Bookcases,South,Second Class,845.81
+1809,2022-08-17,Technology,Copiers,West,Standard Class,297.55
+1810,2022-04-07,Office Supplies,Binders,Central,First Class,397.25
+1811,2021-11-03,Office Supplies,Storage,Central,Standard Class,462.47
+1812,2023-09-30,Furniture,Bookcases,Central,Same Day,417.26
+1813,2023-11-02,Technology,Phones,East,Standard Class,111.23
+1814,2022-12-01,Technology,Accessories,Central,Standard Class,615.06
+1815,2022-10-06,Technology,Accessories,East,First Class,551.97
+1816,2021-12-18,Technology,Phones,South,First Class,276.92
+1817,2022-01-11,Furniture,Tables,South,Same Day,117.51
+1818,2021-02-15,Furniture,Tables,West,Standard Class,255.86
+1819,2023-10-06,Technology,Phones,East,Same Day,53.15
+1820,2022-09-17,Office Supplies,Paper,East,First Class,668.77
+1821,2022-12-12,Office Supplies,Storage,West,Standard Class,147.08
+1822,2023-07-30,Office Supplies,Binders,East,Standard Class,198.27
+1823,2023-09-21,Furniture,Tables,Central,Same Day,637.59
+1824,2023-07-03,Technology,Accessories,Central,Second Class,587.78
+1825,2022-05-11,Technology,Copiers,East,Standard Class,321.34
+1826,2022-08-19,Technology,Accessories,South,First Class,735.42
+1827,2022-04-26,Office Supplies,Paper,East,Same Day,107.97
+1828,2022-11-17,Furniture,Chairs,South,Same Day,321.46
+1829,2022-03-25,Office Supplies,Paper,South,Second Class,108.81
+1830,2021-03-12,Office Supplies,Binders,West,Same Day,529.5
+1831,2023-09-05,Technology,Accessories,East,Second Class,517.0
+1832,2022-11-29,Office Supplies,Paper,Central,Second Class,769.65
+1833,2021-05-24,Technology,Accessories,Central,Second Class,249.94
+1834,2022-09-02,Technology,Phones,West,First Class,910.6
+1835,2022-06-22,Furniture,Tables,East,Standard Class,100.48
+1836,2023-03-24,Furniture,Chairs,Central,Same Day,239.71
+1837,2023-04-07,Office Supplies,Storage,West,Second Class,103.94
+1838,2022-05-29,Furniture,Chairs,East,Second Class,289.94
+1839,2021-11-30,Office Supplies,Paper,West,Same Day,112.62
+1840,2022-05-24,Technology,Copiers,Central,Same Day,530.48
+1841,2023-09-05,Technology,Accessories,South,Standard Class,353.77
+1842,2021-02-06,Office Supplies,Storage,West,Second Class,92.54
+1843,2022-02-25,Technology,Copiers,East,Second Class,448.99
+1844,2022-05-18,Furniture,Bookcases,West,Second Class,701.54
+1845,2023-10-06,Office Supplies,Storage,Central,Second Class,378.46
+1846,2022-05-15,Furniture,Chairs,West,Standard Class,67.82
+1847,2022-10-08,Technology,Copiers,East,First Class,222.25
+1848,2023-04-23,Technology,Phones,West,First Class,413.17
+1849,2022-12-20,Furniture,Tables,Central,Second Class,205.89
+1850,2022-08-19,Furniture,Bookcases,South,Standard Class,99.26
+1851,2021-06-15,Technology,Phones,East,Second Class,571.84
+1852,2022-02-28,Furniture,Tables,West,First Class,198.87
+1853,2023-05-22,Furniture,Bookcases,South,Second Class,701.83
+1854,2023-02-22,Office Supplies,Paper,West,Same Day,162.3
+1855,2022-01-06,Technology,Accessories,East,Standard Class,189.62
+1856,2021-12-19,Office Supplies,Storage,Central,First Class,151.74
+1857,2021-02-03,Furniture,Tables,West,Standard Class,219.28
+1858,2022-01-27,Furniture,Chairs,Central,Second Class,349.63
+1859,2023-06-05,Technology,Accessories,Central,Same Day,104.22
+1860,2023-08-27,Technology,Copiers,West,Same Day,86.57
+1861,2022-01-09,Office Supplies,Binders,Central,Standard Class,44.93
+1862,2021-09-22,Furniture,Chairs,South,Second Class,38.67
+1863,2022-01-01,Office Supplies,Binders,East,Second Class,68.66
+1864,2021-02-20,Technology,Accessories,East,Second Class,161.37
+1865,2022-08-12,Office Supplies,Paper,Central,Same Day,286.03
+1866,2023-05-25,Office Supplies,Storage,West,Standard Class,335.85
+1867,2023-01-28,Technology,Copiers,West,Second Class,276.25
+1868,2022-06-19,Technology,Copiers,West,Second Class,649.37
+1869,2021-09-16,Technology,Accessories,West,First Class,788.66
+1870,2022-11-03,Furniture,Chairs,East,First Class,199.64
+1871,2021-12-22,Office Supplies,Binders,West,First Class,105.87
+1872,2021-02-07,Office Supplies,Paper,South,Standard Class,947.31
+1873,2021-06-21,Furniture,Bookcases,West,Second Class,558.68
+1874,2022-11-21,Furniture,Bookcases,East,Second Class,531.13
+1875,2022-11-14,Office Supplies,Binders,West,First Class,155.92
+1876,2022-06-02,Furniture,Chairs,West,Standard Class,456.73
+1877,2023-08-25,Office Supplies,Paper,West,First Class,277.91
+1878,2021-09-21,Technology,Copiers,East,Standard Class,235.95
+1879,2021-08-03,Office Supplies,Binders,West,Second Class,235.63
+1880,2022-10-31,Furniture,Bookcases,South,Same Day,361.24
+1881,2023-03-08,Furniture,Tables,East,Standard Class,663.45
+1882,2021-06-05,Furniture,Chairs,East,Second Class,998.27
+1883,2023-12-11,Office Supplies,Paper,South,Same Day,179.58
+1884,2023-10-06,Office Supplies,Storage,West,First Class,289.8
+1885,2023-01-09,Technology,Phones,East,First Class,231.34
+1886,2023-02-26,Furniture,Tables,West,Same Day,344.29
+1887,2023-08-16,Technology,Phones,East,Second Class,209.35
+1888,2022-06-13,Technology,Copiers,West,First Class,140.75
+1889,2022-03-18,Technology,Accessories,Central,Standard Class,179.79
+1890,2022-07-10,Furniture,Tables,Central,First Class,157.89
+1891,2022-07-16,Office Supplies,Paper,West,Same Day,222.6
+1892,2022-05-17,Furniture,Bookcases,South,First Class,73.93
+1893,2021-12-28,Office Supplies,Binders,West,Same Day,160.46
+1894,2023-10-29,Furniture,Bookcases,Central,Standard Class,341.86
+1895,2022-01-21,Technology,Accessories,Central,Second Class,340.04
+1896,2022-07-19,Office Supplies,Storage,Central,Second Class,302.17
+1897,2023-02-02,Office Supplies,Binders,South,Second Class,625.38
+1898,2023-09-01,Furniture,Bookcases,West,Second Class,351.67
+1899,2023-05-31,Office Supplies,Paper,South,First Class,611.81
+1900,2023-11-12,Furniture,Tables,Central,Same Day,998.75
+1901,2021-03-08,Office Supplies,Binders,Central,Same Day,464.7
+1902,2023-11-02,Furniture,Bookcases,East,Standard Class,74.31
+1903,2023-03-25,Technology,Copiers,West,Same Day,311.08
+1904,2022-04-19,Furniture,Bookcases,Central,First Class,278.31
+1905,2023-03-27,Office Supplies,Paper,East,Second Class,701.08
+1906,2022-06-21,Office Supplies,Storage,South,First Class,229.02
+1907,2022-06-25,Office Supplies,Paper,South,First Class,124.27
+1908,2021-03-29,Office Supplies,Paper,West,First Class,168.44
+1909,2022-06-08,Furniture,Bookcases,South,Same Day,77.2
+1910,2023-04-13,Office Supplies,Binders,Central,Same Day,895.53
+1911,2023-02-02,Furniture,Chairs,East,Second Class,253.66
+1912,2022-06-01,Technology,Phones,Central,First Class,84.83
+1913,2022-04-01,Furniture,Bookcases,West,First Class,743.13
+1914,2023-08-30,Furniture,Tables,West,First Class,826.78
+1915,2021-09-21,Technology,Copiers,East,First Class,285.5
+1916,2021-08-16,Office Supplies,Storage,Central,First Class,70.21
+1917,2023-05-18,Office Supplies,Binders,West,Standard Class,171.9
+1918,2021-08-01,Furniture,Bookcases,East,Same Day,210.0
+1919,2021-04-19,Office Supplies,Paper,West,First Class,260.26
+1920,2022-07-02,Technology,Phones,West,Standard Class,95.72
+1921,2021-02-24,Furniture,Bookcases,West,Second Class,491.18
+1922,2021-02-28,Technology,Accessories,West,Second Class,23.76
+1923,2023-10-17,Technology,Copiers,West,First Class,546.54
+1924,2021-05-22,Technology,Phones,South,Standard Class,626.03
+1925,2022-07-02,Furniture,Bookcases,Central,Same Day,186.36
+1926,2021-11-22,Technology,Copiers,West,Second Class,237.78
+1927,2022-12-27,Technology,Accessories,Central,First Class,678.81
+1928,2022-04-30,Furniture,Bookcases,South,Second Class,402.13
+1929,2021-12-31,Office Supplies,Paper,West,Same Day,191.87
+1930,2021-05-13,Office Supplies,Binders,West,Second Class,210.9
+1931,2022-02-12,Furniture,Bookcases,Central,Second Class,362.71
+1932,2022-11-14,Office Supplies,Binders,Central,Same Day,843.17
+1933,2022-07-21,Technology,Accessories,West,Same Day,216.18
+1934,2021-08-04,Furniture,Tables,South,Same Day,187.1
+1935,2021-10-31,Technology,Accessories,South,First Class,258.86
+1936,2023-12-18,Office Supplies,Paper,West,Same Day,260.05
+1937,2021-01-18,Furniture,Chairs,East,First Class,317.9
+1938,2023-10-28,Furniture,Chairs,Central,Standard Class,238.37
+1939,2021-12-21,Furniture,Bookcases,East,Second Class,568.76
+1940,2021-08-31,Furniture,Chairs,South,Standard Class,115.75
+1941,2023-09-23,Furniture,Tables,Central,First Class,344.0
+1942,2022-07-28,Technology,Phones,East,Same Day,353.83
+1943,2022-04-23,Office Supplies,Binders,East,Same Day,125.42
+1944,2022-05-03,Office Supplies,Paper,West,Same Day,341.52
+1945,2021-02-08,Technology,Copiers,Central,Second Class,360.54
+1946,2023-09-15,Furniture,Chairs,Central,Standard Class,11.3
+1947,2022-05-04,Technology,Copiers,East,First Class,105.75
+1948,2021-10-16,Technology,Phones,East,Same Day,716.8
+1949,2021-11-13,Technology,Copiers,South,First Class,153.41
+1950,2021-07-22,Technology,Phones,West,Same Day,84.62
+1951,2023-07-15,Furniture,Tables,South,Second Class,36.6
+1952,2022-03-21,Office Supplies,Binders,South,Second Class,96.68
+1953,2021-12-13,Technology,Accessories,Central,Second Class,230.5
+1954,2022-04-30,Furniture,Chairs,Central,First Class,78.64
+1955,2022-01-29,Furniture,Chairs,West,Same Day,405.87
+1956,2021-05-26,Furniture,Bookcases,West,Standard Class,123.37
+1957,2022-12-06,Furniture,Bookcases,West,Second Class,319.7
+1958,2023-01-09,Furniture,Chairs,South,First Class,649.4
+1959,2022-12-28,Technology,Copiers,South,Second Class,622.52
+1960,2022-09-30,Furniture,Bookcases,West,Standard Class,315.67
+1961,2022-12-03,Furniture,Tables,West,Standard Class,90.61
+1962,2021-08-04,Furniture,Chairs,West,Second Class,243.13
+1963,2022-11-23,Office Supplies,Storage,Central,Second Class,323.33
+1964,2023-12-20,Technology,Copiers,South,Same Day,1119.93
+1965,2021-11-12,Technology,Accessories,South,Second Class,36.15
+1966,2022-07-01,Furniture,Bookcases,Central,Same Day,243.8
+1967,2023-07-06,Office Supplies,Storage,South,First Class,395.69
+1968,2023-05-20,Furniture,Chairs,West,Same Day,274.6
+1969,2021-05-01,Technology,Accessories,South,First Class,297.84
+1970,2021-04-16,Technology,Accessories,South,Standard Class,130.22
+1971,2021-07-14,Furniture,Tables,East,Same Day,485.3
+1972,2022-05-28,Furniture,Tables,East,Second Class,260.14
+1973,2022-03-29,Office Supplies,Storage,East,Second Class,297.04
+1974,2021-02-04,Technology,Phones,South,First Class,521.08
+1975,2021-12-04,Furniture,Bookcases,Central,First Class,196.7
+1976,2022-08-05,Technology,Phones,East,Same Day,599.85
+1977,2022-09-13,Technology,Copiers,South,Standard Class,75.89
+1978,2021-06-27,Office Supplies,Binders,East,Standard Class,309.79
+1979,2023-09-21,Technology,Accessories,Central,Second Class,123.01
+1980,2022-05-04,Office Supplies,Storage,South,First Class,95.15
+1981,2022-04-26,Office Supplies,Storage,West,Same Day,836.74
+1982,2021-09-26,Furniture,Tables,West,Second Class,80.09
+1983,2021-08-17,Technology,Phones,South,First Class,264.05
+1984,2021-12-07,Furniture,Tables,South,Second Class,73.86
+1985,2021-07-08,Furniture,Chairs,East,First Class,575.07
+1986,2021-04-21,Furniture,Bookcases,West,Standard Class,180.85
+1987,2023-11-16,Technology,Phones,East,Second Class,519.21
+1988,2021-01-04,Office Supplies,Binders,Central,First Class,386.18
+1989,2021-10-08,Office Supplies,Storage,South,Same Day,1014.04
+1990,2023-04-19,Office Supplies,Binders,Central,Same Day,59.01
+1991,2023-12-19,Technology,Accessories,Central,Standard Class,104.91
+1992,2022-01-02,Office Supplies,Paper,Central,Second Class,500.14
+1993,2023-10-04,Furniture,Tables,West,Second Class,320.91
+1994,2023-06-28,Furniture,Chairs,South,First Class,208.49
+1995,2022-09-20,Furniture,Chairs,West,Standard Class,894.09
+1996,2022-03-13,Office Supplies,Storage,Central,Same Day,250.13
+1997,2021-11-04,Office Supplies,Paper,West,Second Class,127.35
+1998,2022-09-25,Furniture,Chairs,Central,Standard Class,523.51
+1999,2023-04-22,Office Supplies,Storage,Central,Standard Class,256.65
+2000,2021-09-14,Office Supplies,Storage,Central,First Class,272.19
+2001,2022-07-27,Office Supplies,Binders,Central,Same Day,409.6
+2002,2022-07-04,Office Supplies,Storage,West,Second Class,420.95
+2003,2021-07-27,Office Supplies,Paper,South,Standard Class,103.57
+2004,2022-07-09,Office Supplies,Storage,Central,Standard Class,198.91
+2005,2021-11-26,Office Supplies,Paper,Central,First Class,67.25
+2006,2023-04-23,Office Supplies,Paper,South,Second Class,324.43
+2007,2021-09-30,Furniture,Tables,East,Second Class,826.99
+2008,2022-10-27,Technology,Phones,South,Same Day,107.7
+2009,2021-05-18,Furniture,Tables,East,Standard Class,54.45
+2010,2021-12-24,Office Supplies,Paper,East,Same Day,146.4
+2011,2022-02-11,Office Supplies,Paper,West,First Class,207.03
+2012,2021-12-06,Office Supplies,Storage,South,Second Class,423.58
+2013,2023-01-29,Furniture,Chairs,South,Second Class,189.91
+2014,2023-03-14,Technology,Copiers,West,First Class,328.73
+2015,2021-11-30,Technology,Copiers,South,Standard Class,165.59
+2016,2022-09-27,Furniture,Tables,Central,Second Class,216.29
+2017,2021-07-10,Office Supplies,Binders,South,Second Class,123.54
+2018,2023-01-31,Technology,Phones,South,First Class,90.37
+2019,2023-07-12,Furniture,Tables,Central,First Class,434.31
+2020,2021-06-17,Furniture,Chairs,West,First Class,175.46
+2021,2021-08-26,Furniture,Tables,West,Same Day,346.4
+2022,2022-08-03,Furniture,Chairs,West,Second Class,121.78
+2023,2022-09-27,Furniture,Bookcases,Central,Standard Class,251.39
+2024,2023-05-16,Office Supplies,Binders,East,Same Day,24.54
+2025,2023-12-27,Furniture,Bookcases,West,First Class,186.56
+2026,2021-10-07,Office Supplies,Binders,South,Second Class,133.85
+2027,2022-12-06,Furniture,Tables,East,Second Class,559.4
+2028,2021-10-31,Office Supplies,Storage,South,Second Class,76.96
+2029,2023-07-31,Office Supplies,Storage,Central,Same Day,223.47
+2030,2022-02-10,Technology,Accessories,Central,Standard Class,321.49
+2031,2021-08-17,Furniture,Bookcases,South,Same Day,507.04
+2032,2022-12-01,Office Supplies,Binders,Central,Standard Class,459.83
+2033,2021-10-15,Office Supplies,Paper,West,First Class,237.68
+2034,2023-12-09,Furniture,Tables,East,Standard Class,264.38
+2035,2021-07-10,Furniture,Bookcases,East,Same Day,559.06
+2036,2021-07-28,Furniture,Chairs,South,First Class,234.14
+2037,2022-05-05,Furniture,Tables,Central,Standard Class,286.23
+2038,2022-08-30,Furniture,Bookcases,South,Same Day,571.58
+2039,2021-08-19,Technology,Accessories,East,Second Class,1106.11
+2040,2023-11-12,Furniture,Bookcases,South,Same Day,304.86
+2041,2022-08-25,Furniture,Chairs,West,Standard Class,368.16
+2042,2021-05-28,Technology,Accessories,Central,First Class,450.34
+2043,2022-08-09,Office Supplies,Storage,East,First Class,567.88
+2044,2021-01-17,Technology,Copiers,East,Second Class,515.75
+2045,2023-09-19,Office Supplies,Paper,West,Same Day,154.82
+2046,2021-10-05,Furniture,Tables,South,First Class,320.1
+2047,2023-09-27,Office Supplies,Binders,South,Second Class,518.2
+2048,2021-06-03,Office Supplies,Binders,East,Standard Class,649.99
+2049,2021-09-18,Furniture,Bookcases,East,Same Day,223.79
+2050,2021-10-18,Furniture,Chairs,South,Standard Class,314.43
+2051,2022-05-10,Technology,Phones,South,Same Day,341.44
+2052,2022-09-26,Office Supplies,Storage,East,First Class,257.72
+2053,2023-02-25,Office Supplies,Binders,West,Same Day,308.46
+2054,2023-04-15,Technology,Copiers,South,Same Day,1550.69
+2055,2023-09-08,Furniture,Bookcases,South,First Class,216.48
+2056,2021-05-06,Technology,Accessories,West,Standard Class,229.97
+2057,2023-05-28,Furniture,Tables,Central,Second Class,48.04
+2058,2023-06-05,Technology,Copiers,West,Standard Class,39.1
+2059,2021-11-26,Furniture,Tables,Central,First Class,359.09
+2060,2021-11-09,Technology,Accessories,West,First Class,519.65
+2061,2021-10-02,Technology,Accessories,Central,Second Class,455.68
+2062,2022-04-18,Furniture,Chairs,West,Second Class,121.47
+2063,2023-09-24,Technology,Copiers,East,First Class,437.2
+2064,2022-05-17,Furniture,Tables,West,Standard Class,227.1
+2065,2021-04-18,Office Supplies,Storage,West,First Class,184.88
+2066,2021-10-03,Technology,Accessories,West,Second Class,69.27
+2067,2022-09-26,Office Supplies,Storage,South,Same Day,135.57
+2068,2023-10-02,Furniture,Tables,South,First Class,365.14
+2069,2022-06-30,Office Supplies,Storage,South,Same Day,317.61
+2070,2021-09-30,Office Supplies,Binders,Central,Standard Class,283.98
+2071,2021-12-27,Furniture,Tables,West,Standard Class,20.99
+2072,2023-03-09,Office Supplies,Storage,Central,Standard Class,286.18
+2073,2021-11-07,Technology,Phones,East,First Class,152.84
+2074,2021-02-13,Furniture,Chairs,West,Standard Class,319.3
+2075,2021-11-26,Office Supplies,Binders,West,Second Class,579.56
+2076,2022-05-26,Technology,Copiers,East,First Class,172.86
+2077,2021-09-05,Technology,Phones,East,Second Class,270.57
+2078,2022-06-06,Technology,Accessories,East,Second Class,890.6
+2079,2021-08-22,Furniture,Chairs,East,First Class,307.65
+2080,2021-11-18,Furniture,Chairs,West,First Class,245.71
+2081,2021-07-14,Technology,Copiers,South,First Class,123.3
+2082,2022-05-26,Technology,Phones,East,First Class,445.72
+2083,2022-12-21,Office Supplies,Binders,East,Same Day,104.7
+2084,2023-09-16,Technology,Copiers,Central,First Class,596.91
+2085,2023-10-20,Furniture,Bookcases,West,First Class,402.07
+2086,2022-07-06,Furniture,Bookcases,West,Second Class,157.49
+2087,2022-11-14,Furniture,Tables,West,Standard Class,127.08
+2088,2021-03-13,Technology,Phones,Central,Same Day,129.85
+2089,2022-07-01,Furniture,Tables,East,Same Day,39.96
+2090,2021-02-08,Technology,Phones,Central,Same Day,352.88
+2091,2023-01-29,Office Supplies,Storage,West,Standard Class,24.99
+2092,2022-01-25,Office Supplies,Paper,South,Standard Class,233.7
+2093,2022-03-17,Furniture,Tables,East,Same Day,222.01
+2094,2021-11-27,Office Supplies,Paper,East,Standard Class,191.92
+2095,2022-01-02,Technology,Phones,East,Same Day,351.14
+2096,2021-05-01,Office Supplies,Binders,Central,First Class,157.82
+2097,2023-06-26,Office Supplies,Storage,Central,Standard Class,286.73
+2098,2022-09-13,Technology,Accessories,West,Same Day,596.83
+2099,2022-05-19,Office Supplies,Binders,West,Standard Class,381.56
+2100,2023-01-27,Technology,Copiers,South,Standard Class,178.34
+2101,2022-04-27,Technology,Copiers,Central,Same Day,251.53
+2102,2023-03-25,Furniture,Chairs,Central,Second Class,192.1
+2103,2022-09-07,Technology,Accessories,Central,First Class,219.51
+2104,2022-04-29,Furniture,Tables,Central,First Class,293.36
+2105,2022-02-28,Technology,Accessories,East,Second Class,65.99
+2106,2023-10-13,Furniture,Tables,South,Same Day,50.52
+2107,2023-01-01,Furniture,Chairs,West,First Class,113.9
+2108,2022-03-21,Technology,Copiers,West,Standard Class,363.23
+2109,2022-12-28,Technology,Copiers,East,First Class,399.49
+2110,2021-10-05,Technology,Copiers,West,Second Class,442.17
+2111,2021-11-09,Technology,Accessories,South,Same Day,118.12
+2112,2021-10-22,Furniture,Tables,Central,Standard Class,269.39
+2113,2021-01-24,Office Supplies,Binders,Central,First Class,182.95
+2114,2022-12-16,Furniture,Tables,East,Second Class,226.8
+2115,2021-03-02,Office Supplies,Paper,East,Standard Class,180.28
+2116,2022-09-26,Office Supplies,Storage,East,First Class,305.86
+2117,2021-01-25,Office Supplies,Storage,West,Second Class,141.39
+2118,2023-07-11,Office Supplies,Storage,West,Standard Class,552.47
+2119,2022-08-11,Office Supplies,Paper,Central,Standard Class,555.82
+2120,2021-12-23,Technology,Phones,South,Same Day,355.17
+2121,2022-09-27,Furniture,Chairs,Central,Same Day,509.1
+2122,2021-11-18,Technology,Copiers,East,First Class,63.29
+2123,2022-12-29,Furniture,Tables,Central,First Class,574.42
+2124,2023-08-02,Technology,Phones,South,Standard Class,330.99
+2125,2023-03-01,Furniture,Tables,West,Same Day,148.91
+2126,2021-10-28,Office Supplies,Paper,South,First Class,136.2
+2127,2022-03-12,Office Supplies,Binders,East,Standard Class,708.87
+2128,2021-04-12,Technology,Phones,South,Standard Class,447.13
+2129,2023-04-11,Office Supplies,Binders,South,First Class,222.07
+2130,2021-02-21,Furniture,Chairs,Central,Second Class,62.5
+2131,2023-10-29,Furniture,Tables,South,Second Class,594.34
+2132,2022-05-29,Furniture,Bookcases,West,Standard Class,91.05
+2133,2023-02-20,Furniture,Tables,Central,First Class,185.69
+2134,2023-11-16,Technology,Copiers,South,Same Day,221.83
+2135,2021-02-24,Furniture,Tables,Central,Second Class,134.37
+2136,2022-05-08,Technology,Accessories,West,Second Class,214.04
+2137,2022-11-06,Office Supplies,Paper,West,First Class,248.64
+2138,2023-04-27,Technology,Copiers,East,Same Day,210.53
+2139,2022-11-24,Office Supplies,Storage,South,First Class,317.12
+2140,2021-01-29,Furniture,Tables,East,First Class,726.4
+2141,2022-02-12,Office Supplies,Storage,South,First Class,65.86
+2142,2023-01-25,Office Supplies,Binders,Central,First Class,281.81
+2143,2023-07-03,Office Supplies,Binders,East,First Class,92.02
+2144,2023-11-02,Furniture,Bookcases,South,Standard Class,59.2
+2145,2022-05-13,Technology,Copiers,Central,Standard Class,482.79
+2146,2022-07-13,Office Supplies,Storage,South,Same Day,300.07
+2147,2022-08-22,Office Supplies,Paper,East,Same Day,55.16
+2148,2023-02-12,Office Supplies,Binders,South,Second Class,213.88
+2149,2023-08-20,Office Supplies,Paper,Central,Second Class,114.19
+2150,2021-08-02,Technology,Copiers,West,Standard Class,219.9
+2151,2023-01-27,Furniture,Bookcases,East,Standard Class,409.61
+2152,2023-04-09,Office Supplies,Paper,West,Standard Class,380.63
+2153,2021-04-28,Furniture,Bookcases,South,Second Class,181.35
+2154,2021-08-11,Furniture,Tables,East,Second Class,498.45
+2155,2023-08-19,Office Supplies,Storage,South,Same Day,628.57
+2156,2022-10-14,Office Supplies,Storage,Central,Same Day,414.39
+2157,2022-09-24,Technology,Accessories,West,First Class,157.03
+2158,2023-12-14,Technology,Copiers,South,Standard Class,225.65
+2159,2021-04-17,Technology,Accessories,South,Standard Class,711.2
+2160,2023-11-28,Technology,Phones,West,Same Day,192.68
+2161,2021-09-23,Office Supplies,Storage,West,Second Class,381.49
+2162,2021-01-30,Technology,Accessories,East,Second Class,132.75
+2163,2022-06-26,Furniture,Tables,Central,Second Class,500.86
+2164,2023-10-06,Technology,Accessories,South,Standard Class,119.48
+2165,2022-04-20,Furniture,Bookcases,South,First Class,233.45
+2166,2023-06-17,Technology,Copiers,South,First Class,371.92
+2167,2023-04-16,Furniture,Tables,West,First Class,808.95
+2168,2023-11-16,Furniture,Chairs,Central,Standard Class,295.99
+2169,2022-01-20,Technology,Phones,West,First Class,202.51
+2170,2022-11-19,Furniture,Bookcases,South,Standard Class,190.35
+2171,2023-10-05,Technology,Copiers,Central,Same Day,485.88
+2172,2023-04-16,Technology,Accessories,Central,Same Day,350.68
+2173,2023-01-05,Furniture,Tables,South,Standard Class,403.89
+2174,2023-10-06,Technology,Copiers,Central,Same Day,678.0
+2175,2022-01-10,Technology,Copiers,South,Second Class,261.82
+2176,2023-06-20,Furniture,Chairs,South,Standard Class,332.99
+2177,2022-06-19,Furniture,Bookcases,South,Same Day,188.25
+2178,2023-03-07,Furniture,Tables,West,First Class,128.25
+2179,2023-04-03,Technology,Phones,South,Same Day,151.3
+2180,2022-03-10,Furniture,Tables,East,Standard Class,14.03
+2181,2023-09-24,Office Supplies,Paper,South,First Class,369.23
+2182,2023-12-01,Technology,Copiers,Central,Second Class,342.42
+2183,2021-10-07,Technology,Accessories,East,Same Day,363.65
+2184,2023-10-06,Technology,Copiers,East,Standard Class,120.74
+2185,2021-05-20,Furniture,Tables,Central,Standard Class,153.57
+2186,2021-04-24,Technology,Accessories,South,Standard Class,149.31
+2187,2022-02-26,Office Supplies,Paper,South,Same Day,534.63
+2188,2022-09-06,Furniture,Tables,West,Second Class,287.86
+2189,2021-08-28,Furniture,Bookcases,South,Second Class,259.67
+2190,2021-02-16,Technology,Copiers,South,Second Class,430.4
+2191,2023-06-15,Furniture,Chairs,West,First Class,149.75
+2192,2021-03-10,Office Supplies,Paper,West,Same Day,327.12
+2193,2022-01-03,Technology,Accessories,West,Same Day,878.54
+2194,2023-11-04,Office Supplies,Storage,South,Second Class,592.47
+2195,2023-06-05,Furniture,Chairs,Central,Second Class,323.53
+2196,2022-12-29,Office Supplies,Storage,Central,Second Class,267.17
+2197,2021-09-26,Technology,Phones,South,First Class,361.41
+2198,2022-05-13,Technology,Accessories,Central,Same Day,648.05
+2199,2023-04-20,Furniture,Chairs,Central,Same Day,617.57
+2200,2023-02-18,Technology,Copiers,Central,First Class,721.29
+2201,2022-07-29,Technology,Accessories,Central,Same Day,300.05
+2202,2021-11-07,Office Supplies,Paper,West,Same Day,24.72
+2203,2022-03-25,Furniture,Tables,South,Second Class,838.08
+2204,2022-03-24,Furniture,Tables,West,Second Class,128.0
+2205,2021-10-07,Technology,Copiers,South,Same Day,425.48
+2206,2022-07-13,Office Supplies,Binders,East,Same Day,25.43
+2207,2021-10-04,Technology,Copiers,West,Second Class,255.55
+2208,2023-02-17,Technology,Phones,South,First Class,192.96
+2209,2021-09-19,Furniture,Bookcases,West,Standard Class,722.37
+2210,2021-06-22,Furniture,Bookcases,East,First Class,326.54
+2211,2022-10-28,Technology,Accessories,Central,Standard Class,253.51
+2212,2023-04-29,Technology,Accessories,Central,Same Day,353.15
+2213,2021-03-31,Office Supplies,Storage,East,Standard Class,6.87
+2214,2022-06-25,Technology,Accessories,Central,Standard Class,146.79
+2215,2021-07-29,Furniture,Chairs,West,First Class,166.87
+2216,2021-05-14,Technology,Accessories,South,First Class,393.79
+2217,2023-04-24,Office Supplies,Paper,East,First Class,103.66
+2218,2022-06-19,Technology,Copiers,East,First Class,290.48
+2219,2021-08-18,Furniture,Bookcases,Central,Same Day,235.0
+2220,2023-10-17,Technology,Phones,East,First Class,153.79
+2221,2023-05-13,Technology,Phones,West,Second Class,162.55
+2222,2023-04-27,Furniture,Bookcases,West,First Class,233.33
+2223,2022-12-10,Office Supplies,Paper,South,Standard Class,35.53
+2224,2021-06-18,Technology,Phones,South,Second Class,434.51
+2225,2021-01-15,Office Supplies,Paper,East,Second Class,127.19
+2226,2022-03-12,Furniture,Tables,South,Standard Class,202.99
+2227,2023-07-28,Furniture,Tables,West,First Class,704.9
+2228,2022-12-10,Office Supplies,Binders,South,Standard Class,439.72
+2229,2021-02-23,Technology,Copiers,East,Second Class,86.77
+2230,2023-01-21,Technology,Copiers,Central,First Class,4.76
+2231,2023-08-12,Furniture,Tables,East,Second Class,364.06
+2232,2021-07-30,Furniture,Bookcases,West,Same Day,209.51
+2233,2023-02-14,Technology,Accessories,West,Same Day,291.78
+2234,2022-07-11,Technology,Copiers,South,First Class,429.57
+2235,2023-08-04,Technology,Copiers,Central,Same Day,477.53
+2236,2023-10-05,Technology,Accessories,Central,First Class,177.92
+2237,2022-05-10,Office Supplies,Paper,West,Second Class,230.33
+2238,2021-08-19,Technology,Phones,West,First Class,334.16
+2239,2023-11-11,Technology,Copiers,East,Standard Class,350.14
+2240,2021-10-01,Office Supplies,Binders,East,First Class,289.66
+2241,2021-12-03,Furniture,Chairs,South,First Class,653.51
+2242,2023-12-07,Technology,Copiers,South,First Class,347.33
+2243,2022-11-18,Technology,Accessories,Central,First Class,425.15
+2244,2021-03-07,Technology,Phones,East,First Class,308.07
+2245,2023-09-06,Office Supplies,Paper,East,First Class,102.93
+2246,2022-04-24,Office Supplies,Paper,Central,Standard Class,146.38
+2247,2021-07-29,Technology,Accessories,West,Standard Class,83.18
+2248,2022-11-11,Office Supplies,Binders,East,Second Class,514.69
+2249,2021-06-07,Furniture,Tables,South,Second Class,54.81
+2250,2021-10-05,Office Supplies,Storage,West,Second Class,222.98
+2251,2022-09-17,Technology,Phones,East,Second Class,186.07
+2252,2023-02-21,Office Supplies,Storage,East,Standard Class,182.09
+2253,2022-08-02,Furniture,Tables,South,Same Day,195.36
+2254,2021-08-28,Office Supplies,Binders,West,Same Day,736.33
+2255,2023-04-29,Furniture,Bookcases,East,Standard Class,32.47
+2256,2023-01-19,Furniture,Chairs,South,Standard Class,599.56
+2257,2022-08-12,Furniture,Bookcases,Central,Second Class,209.03
+2258,2023-09-05,Technology,Phones,West,First Class,456.14
+2259,2022-10-02,Technology,Accessories,East,Standard Class,265.77
+2260,2023-01-22,Technology,Phones,Central,Same Day,91.9
+2261,2022-06-16,Furniture,Bookcases,East,Same Day,638.31
+2262,2021-03-25,Furniture,Chairs,South,Second Class,573.44
+2263,2021-04-30,Technology,Accessories,West,Standard Class,98.68
+2264,2022-07-21,Office Supplies,Paper,Central,Standard Class,383.96
+2265,2022-01-31,Technology,Copiers,West,Second Class,152.28
+2266,2023-05-11,Furniture,Chairs,Central,Second Class,57.49
+2267,2022-03-24,Office Supplies,Binders,West,First Class,127.48
+2268,2022-09-28,Technology,Copiers,South,Same Day,613.52
+2269,2021-08-11,Office Supplies,Storage,South,Standard Class,463.87
+2270,2021-02-25,Office Supplies,Paper,Central,Standard Class,197.24
+2271,2021-05-22,Office Supplies,Storage,South,First Class,615.46
+2272,2023-12-03,Furniture,Chairs,East,Second Class,544.07
+2273,2022-08-07,Furniture,Tables,East,First Class,127.66
+2274,2022-08-23,Office Supplies,Paper,West,First Class,716.99
+2275,2021-10-21,Office Supplies,Paper,East,Second Class,184.55
+2276,2022-09-30,Technology,Phones,West,Second Class,205.89
+2277,2021-10-06,Furniture,Tables,East,Standard Class,33.55
+2278,2023-04-16,Office Supplies,Paper,East,Second Class,149.83
+2279,2021-02-08,Office Supplies,Binders,East,Second Class,224.34
+2280,2022-03-15,Office Supplies,Storage,Central,Same Day,314.44
+2281,2023-01-29,Technology,Phones,South,Same Day,92.2
+2282,2022-01-21,Technology,Phones,Central,Same Day,132.94
+2283,2021-08-22,Furniture,Bookcases,Central,Standard Class,727.42
+2284,2022-10-01,Technology,Phones,West,Same Day,519.84
+2285,2022-06-30,Office Supplies,Binders,East,Second Class,586.04
+2286,2022-03-04,Furniture,Tables,South,First Class,239.33
+2287,2023-05-14,Furniture,Tables,East,Standard Class,321.32
+2288,2022-11-20,Furniture,Chairs,West,Second Class,390.02
+2289,2021-05-15,Technology,Copiers,West,Standard Class,720.4
+2290,2021-07-24,Technology,Accessories,West,Second Class,56.14
+2291,2023-10-09,Furniture,Bookcases,East,Same Day,162.98
+2292,2021-03-19,Furniture,Tables,Central,Standard Class,300.19
+2293,2022-11-29,Technology,Accessories,Central,Same Day,267.05
+2294,2022-09-29,Office Supplies,Binders,East,Standard Class,131.46
+2295,2023-01-07,Office Supplies,Storage,East,Standard Class,366.45
+2296,2023-05-26,Furniture,Tables,East,Same Day,168.48
+2297,2023-10-11,Technology,Phones,Central,Second Class,252.49
+2298,2022-07-01,Technology,Copiers,East,Second Class,354.91
+2299,2022-08-18,Office Supplies,Storage,West,Same Day,175.21
+2300,2021-01-08,Technology,Copiers,West,Same Day,437.38
+2301,2023-01-27,Office Supplies,Binders,East,Standard Class,493.79
+2302,2023-07-10,Office Supplies,Paper,South,Same Day,135.92
+2303,2022-06-13,Technology,Phones,West,Standard Class,167.47
+2304,2023-10-31,Furniture,Chairs,West,Second Class,105.69
+2305,2021-12-03,Office Supplies,Storage,Central,Same Day,248.21
+2306,2023-01-24,Furniture,Chairs,Central,First Class,314.28
+2307,2022-01-28,Technology,Copiers,Central,Second Class,189.31
+2308,2023-01-19,Technology,Phones,East,Second Class,307.87
+2309,2021-10-03,Technology,Copiers,East,Second Class,163.79
+2310,2022-08-11,Technology,Copiers,Central,Same Day,168.28
+2311,2022-09-15,Office Supplies,Paper,West,Same Day,326.27
+2312,2022-08-16,Technology,Accessories,South,First Class,177.69
+2313,2022-06-02,Technology,Copiers,West,Second Class,237.97
+2314,2022-10-01,Furniture,Tables,West,Standard Class,334.75
+2315,2022-12-03,Technology,Phones,West,Same Day,304.59
+2316,2023-12-09,Office Supplies,Paper,South,Same Day,165.74
+2317,2022-10-28,Office Supplies,Storage,Central,Standard Class,528.38
+2318,2022-05-11,Technology,Phones,Central,First Class,377.72
+2319,2021-08-28,Furniture,Bookcases,West,Same Day,300.21
+2320,2021-07-02,Office Supplies,Storage,East,First Class,92.73
+2321,2022-07-03,Furniture,Chairs,Central,Second Class,272.02
+2322,2023-04-04,Technology,Copiers,West,First Class,147.27
+2323,2021-06-11,Furniture,Bookcases,West,Second Class,358.4
+2324,2022-02-16,Furniture,Tables,West,Standard Class,4.54
+2325,2021-03-04,Furniture,Tables,East,Second Class,203.57
+2326,2022-11-17,Office Supplies,Storage,East,Same Day,159.61
+2327,2021-12-10,Office Supplies,Paper,West,Standard Class,438.52
+2328,2021-02-07,Technology,Copiers,Central,Standard Class,35.14
+2329,2023-02-24,Office Supplies,Paper,East,Same Day,258.91
+2330,2021-05-30,Furniture,Chairs,Central,Same Day,374.46
+2331,2022-03-20,Technology,Copiers,East,Same Day,809.44
+2332,2021-05-22,Furniture,Bookcases,Central,Standard Class,167.83
+2333,2023-09-19,Technology,Copiers,Central,Second Class,318.24
+2334,2023-08-09,Office Supplies,Binders,West,Same Day,38.12
+2335,2022-05-22,Office Supplies,Paper,West,First Class,248.92
+2336,2021-10-09,Office Supplies,Paper,Central,First Class,554.71
+2337,2021-11-06,Furniture,Chairs,East,Second Class,814.61
+2338,2021-05-24,Office Supplies,Paper,Central,First Class,340.4
+2339,2021-10-01,Furniture,Bookcases,West,First Class,52.5
+2340,2023-08-31,Office Supplies,Binders,West,Second Class,615.1
+2341,2022-11-25,Office Supplies,Storage,West,First Class,53.04
+2342,2021-07-06,Technology,Copiers,South,Standard Class,84.09
+2343,2023-08-14,Furniture,Tables,West,Same Day,650.23
+2344,2023-02-08,Technology,Phones,West,First Class,235.15
+2345,2021-11-15,Furniture,Chairs,East,Second Class,152.28
+2346,2023-05-30,Furniture,Tables,South,Standard Class,411.18
+2347,2023-08-12,Technology,Accessories,South,Second Class,283.18
+2348,2022-10-16,Furniture,Chairs,East,Standard Class,521.41
+2349,2021-10-08,Furniture,Tables,Central,Same Day,293.06
+2350,2022-06-01,Office Supplies,Paper,West,First Class,298.07
+2351,2022-11-19,Technology,Accessories,East,Second Class,508.9
+2352,2022-01-22,Furniture,Chairs,South,First Class,232.66
+2353,2023-04-08,Furniture,Chairs,Central,First Class,114.48
+2354,2023-11-29,Furniture,Tables,East,Same Day,427.81
+2355,2023-12-25,Technology,Phones,East,Second Class,197.65
+2356,2021-08-05,Office Supplies,Storage,East,Standard Class,310.67
+2357,2021-12-06,Office Supplies,Paper,South,Same Day,28.48
+2358,2021-06-20,Technology,Phones,East,Standard Class,225.27
+2359,2022-07-01,Office Supplies,Storage,West,Standard Class,161.68
+2360,2023-09-20,Technology,Copiers,West,Standard Class,27.3
+2361,2023-07-05,Office Supplies,Paper,West,Same Day,230.9
+2362,2022-10-03,Technology,Phones,South,First Class,237.04
+2363,2021-01-04,Office Supplies,Binders,South,Same Day,327.31
+2364,2022-12-06,Office Supplies,Binders,South,Standard Class,548.43
+2365,2021-02-16,Furniture,Chairs,East,Second Class,489.75
+2366,2023-04-01,Furniture,Chairs,West,First Class,171.44
+2367,2022-12-11,Technology,Phones,South,First Class,287.71
+2368,2022-09-04,Technology,Accessories,East,Same Day,361.99
+2369,2023-07-13,Technology,Copiers,East,First Class,175.59
+2370,2021-11-17,Furniture,Bookcases,Central,Same Day,58.67
+2371,2023-04-18,Technology,Copiers,Central,Standard Class,211.76
+2372,2023-04-23,Furniture,Chairs,South,Standard Class,564.01
+2373,2023-02-11,Technology,Accessories,South,Second Class,55.55
+2374,2022-04-20,Furniture,Tables,East,First Class,103.69
+2375,2023-09-17,Technology,Copiers,South,First Class,125.79
+2376,2023-02-04,Technology,Copiers,South,First Class,104.83
+2377,2022-09-14,Technology,Copiers,West,Second Class,412.46
+2378,2022-03-12,Technology,Copiers,West,First Class,146.77
+2379,2023-02-20,Furniture,Bookcases,Central,Standard Class,420.22
+2380,2022-08-08,Technology,Phones,Central,Second Class,258.69
+2381,2023-12-10,Office Supplies,Storage,East,Second Class,41.43
+2382,2023-01-06,Technology,Copiers,East,First Class,178.82
+2383,2022-09-13,Office Supplies,Binders,South,First Class,499.77
+2384,2022-06-26,Technology,Accessories,South,Same Day,281.13
+2385,2021-07-01,Technology,Accessories,South,Same Day,190.33
+2386,2021-12-16,Technology,Accessories,Central,First Class,568.58
+2387,2022-01-27,Furniture,Bookcases,South,Same Day,94.09
+2388,2023-04-18,Office Supplies,Storage,Central,Same Day,151.5
+2389,2021-10-31,Office Supplies,Paper,West,First Class,468.08
+2390,2023-10-01,Technology,Phones,East,Second Class,406.52
+2391,2022-04-17,Technology,Phones,West,First Class,86.53
+2392,2023-09-26,Furniture,Tables,South,Same Day,353.25
+2393,2022-04-02,Furniture,Bookcases,South,Same Day,144.67
+2394,2023-11-20,Furniture,Tables,Central,Standard Class,25.5
+2395,2022-03-31,Furniture,Chairs,East,Standard Class,193.44
+2396,2021-05-29,Furniture,Tables,Central,Standard Class,848.92
+2397,2023-08-07,Furniture,Bookcases,Central,Same Day,505.69
+2398,2021-11-15,Technology,Accessories,West,Second Class,240.94
+2399,2022-08-23,Technology,Copiers,West,Second Class,51.73
+2400,2021-07-03,Furniture,Bookcases,Central,Second Class,26.67
+2401,2021-11-29,Office Supplies,Storage,Central,Second Class,259.31
+2402,2022-03-04,Office Supplies,Storage,South,Same Day,336.73
+2403,2022-04-26,Furniture,Tables,East,Second Class,415.83
+2404,2023-02-11,Office Supplies,Storage,West,First Class,382.91
+2405,2021-03-26,Office Supplies,Paper,Central,Same Day,406.21
+2406,2021-02-14,Office Supplies,Storage,Central,Second Class,307.48
+2407,2023-02-05,Office Supplies,Storage,East,First Class,560.31
+2408,2021-08-13,Office Supplies,Storage,West,Standard Class,161.4
+2409,2023-11-03,Office Supplies,Binders,West,First Class,256.33
+2410,2022-03-26,Office Supplies,Storage,West,Second Class,41.63
+2411,2023-09-21,Furniture,Bookcases,West,First Class,158.47
+2412,2022-09-20,Technology,Phones,East,Same Day,496.25
+2413,2022-10-25,Office Supplies,Paper,South,First Class,397.12
+2414,2021-06-19,Technology,Accessories,Central,Same Day,14.56
+2415,2023-03-31,Office Supplies,Storage,East,Standard Class,890.59
+2416,2021-07-15,Office Supplies,Binders,East,First Class,281.68
+2417,2021-12-13,Technology,Phones,South,Second Class,285.69
+2418,2021-05-05,Furniture,Bookcases,South,Second Class,149.85
+2419,2022-10-03,Technology,Accessories,Central,Second Class,179.59
+2420,2021-07-13,Furniture,Chairs,West,Same Day,279.32
+2421,2022-07-14,Office Supplies,Paper,South,Second Class,381.33
+2422,2022-05-11,Office Supplies,Binders,Central,First Class,318.21
+2423,2021-06-11,Technology,Copiers,West,First Class,160.38
+2424,2021-12-12,Office Supplies,Binders,South,Second Class,113.0
+2425,2023-04-01,Furniture,Tables,Central,First Class,105.91
+2426,2022-08-27,Furniture,Tables,West,First Class,522.9
+2427,2021-06-06,Technology,Phones,East,First Class,480.62
+2428,2023-09-20,Furniture,Chairs,West,Same Day,356.74
+2429,2021-06-09,Technology,Phones,South,Second Class,520.33
+2430,2021-11-28,Office Supplies,Binders,West,Second Class,226.54
+2431,2023-07-14,Technology,Copiers,Central,First Class,452.47
+2432,2023-09-15,Technology,Phones,Central,Second Class,370.06
+2433,2021-12-01,Office Supplies,Storage,South,Standard Class,460.95
+2434,2021-04-02,Technology,Copiers,West,Second Class,95.95
+2435,2023-03-05,Furniture,Bookcases,East,First Class,304.26
+2436,2022-01-07,Furniture,Tables,West,Same Day,188.03
+2437,2022-01-20,Technology,Accessories,West,Same Day,19.49
+2438,2021-07-31,Furniture,Chairs,South,Standard Class,580.42
+2439,2023-12-07,Office Supplies,Paper,Central,Standard Class,481.54
+2440,2021-08-06,Technology,Accessories,East,First Class,324.17
+2441,2023-11-04,Office Supplies,Binders,South,Second Class,119.55
+2442,2021-03-14,Office Supplies,Paper,East,Same Day,39.39
+2443,2021-03-27,Technology,Copiers,West,Standard Class,19.07
+2444,2021-12-12,Technology,Phones,West,First Class,157.46
+2445,2021-10-24,Office Supplies,Paper,West,Second Class,410.41
+2446,2022-10-31,Technology,Phones,South,Same Day,189.67
+2447,2022-03-31,Furniture,Bookcases,East,Same Day,359.9
+2448,2021-08-31,Furniture,Chairs,South,Standard Class,372.82
+2449,2023-01-27,Office Supplies,Storage,Central,Standard Class,406.22
+2450,2024-01-01,Office Supplies,Binders,South,Same Day,31.24
+2451,2024-01-01,Technology,Copiers,West,Standard Class,129.65
+2452,2021-04-29,Office Supplies,Binders,South,Same Day,355.13
+2453,2022-04-04,Office Supplies,Storage,South,Standard Class,666.27
+2454,2022-07-11,Furniture,Tables,Central,Second Class,545.26
+2455,2023-02-04,Technology,Accessories,Central,Standard Class,311.94
+2456,2021-06-16,Office Supplies,Paper,Central,Same Day,584.59
+2457,2021-06-04,Furniture,Chairs,East,Second Class,310.18
+2458,2021-06-21,Office Supplies,Binders,South,Standard Class,53.84
+2459,2023-08-04,Technology,Copiers,South,Second Class,401.37
+2460,2023-01-25,Technology,Copiers,South,First Class,558.04
+2461,2023-10-24,Technology,Phones,West,Second Class,806.35
+2462,2023-07-21,Furniture,Bookcases,Central,First Class,153.66
+2463,2022-02-14,Furniture,Chairs,East,Second Class,86.27
+2464,2021-07-21,Furniture,Bookcases,West,Standard Class,453.39
+2465,2022-02-28,Furniture,Tables,East,Same Day,339.92
+2466,2023-06-16,Office Supplies,Storage,South,Same Day,317.95
+2467,2023-11-19,Technology,Phones,South,Standard Class,590.13
+2468,2023-04-30,Furniture,Chairs,Central,First Class,452.16
+2469,2023-05-16,Technology,Accessories,East,Second Class,363.35
+2470,2023-10-26,Furniture,Chairs,South,Same Day,170.91
+2471,2022-09-09,Office Supplies,Storage,West,Second Class,426.99
+2472,2023-02-18,Office Supplies,Paper,Central,Same Day,82.69
+2473,2022-02-17,Technology,Copiers,East,First Class,309.53
+2474,2022-06-30,Office Supplies,Storage,South,Standard Class,243.49
+2475,2021-06-16,Furniture,Tables,East,First Class,50.89
+2476,2022-03-15,Office Supplies,Storage,West,Standard Class,340.64
+2477,2023-05-28,Furniture,Chairs,Central,First Class,153.96
+2478,2022-07-06,Office Supplies,Binders,East,First Class,334.66
+2479,2022-11-27,Office Supplies,Paper,East,First Class,106.64
+2480,2023-09-03,Office Supplies,Paper,Central,Same Day,455.3
+2481,2023-09-11,Office Supplies,Binders,Central,First Class,735.81
+2482,2021-08-18,Technology,Accessories,East,Same Day,82.72
+2483,2023-04-04,Technology,Accessories,Central,Same Day,106.5
+2484,2022-02-08,Furniture,Chairs,West,Standard Class,68.9
+2485,2022-06-13,Office Supplies,Storage,Central,Second Class,210.8
+2486,2021-08-01,Technology,Copiers,West,Second Class,330.9
+2487,2021-06-14,Office Supplies,Binders,South,Standard Class,408.96
+2488,2021-12-16,Furniture,Chairs,South,First Class,305.04
+2489,2021-09-19,Technology,Phones,East,First Class,400.23
+2490,2022-09-02,Furniture,Chairs,East,First Class,236.78
+2491,2021-08-23,Office Supplies,Binders,Central,Second Class,152.39
+2492,2023-01-23,Office Supplies,Binders,West,Same Day,109.07
+2493,2022-09-22,Technology,Accessories,East,Same Day,217.1
+2494,2023-07-18,Office Supplies,Storage,West,Same Day,111.62
+2495,2022-05-22,Furniture,Chairs,West,Standard Class,323.71
+2496,2023-03-15,Office Supplies,Storage,Central,Standard Class,113.33
+2497,2022-04-30,Office Supplies,Storage,West,First Class,166.95
+2498,2022-08-12,Office Supplies,Binders,South,First Class,521.09
+2499,2023-12-17,Office Supplies,Binders,South,Standard Class,555.24
+2500,2022-08-24,Furniture,Tables,South,First Class,543.51
